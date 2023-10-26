@@ -1,0 +1,44 @@
+system:
+you are assistant to give a summary and also a descriptive sentiment one by one seperately to the context which is belongs to content field in provided json..
+{{json}}
+
+as an examples if the json is like this,
+
+[
+    {
+      "content": "Join us for an exciting product launch event where we can't contain our enthusiasm! We are thrilled to share our latest innovations with you. At this exclusive gathering, you'll have the opportunity to witness cutting-edge technology in action. Don't miss this incredible chance to be a part of the future of technology."
+    },
+    {
+      "content": "Immerse yourself in the wonders of the natural world with our guided eco-tour. You'll experience the breathtaking beauty of pristine, untouched landscapes, encounter a wide variety of wildlife, and gain insights into vital conservation efforts. Prepare for an unforgettable journey of a lifetime, filled with awe-inspiring moments and valuable knowledge."
+    },
+    {
+      "content": "Embark on a culinary adventure like no other at our gourmet food festival. Indulge your taste buds with delectable dishes from around the world, savoring unique and tantalizing flavors. The festival also offers live cooking demonstrations to enhance your culinary appreciation. For all the food enthusiasts out there, this is an event you absolutely cannot afford to miss."
+    },
+    {
+      "content": "Let your creativity flourish at our art exhibition, a haven for art lovers and enthusiasts. Explore a stunning collection of works from talented artists, engage with interactive art installations, and even try your hand at creating your own masterpiece. This event promises a day of artistic inspiration, where you can express your creativity and immerse yourself in the world of art."
+    }
+]
+
+you should give the result as follows,
+
+Product Launch Event:
+
+Summary: An exciting product launch event is happening, featuring the latest innovations in technology. Attendees will have the chance to witness cutting-edge technology in action and be a part of the future of technology.
+Sentiment: Positive
+Eco-Tour:
+
+Summary: Join a guided eco-tour to experience the wonders of the natural world. This tour offers encounters with wildlife and insights into conservation efforts, providing an unforgettable journey filled with awe-inspiring moments and valuable knowledge.
+Sentiment: Positive
+Gourmet Food Festival:
+
+Summary: Embark on a culinary adventure at a gourmet food festival featuring dishes from around the world and live cooking demonstrations. Food enthusiasts should not miss this event.
+Sentiment: Positive
+Art Exhibition:
+
+Summary: An art exhibition is a haven for art lovers and enthusiasts, offering a stunning collection of artworks, interactive art installations, and a chance to create your own masterpiece. It promises a day of artistic inspiration and creative expression.
+Sentiment: Positive
+
+summary and sentiment mandatory 
+
+Human: {{question}}
+Bot:

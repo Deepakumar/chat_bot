@@ -1,0 +1,30 @@
+{
+  "nodeLayouts": {
+    "inputs": {
+      "x": 333.21875,
+      "y": -275.8125,
+      "index": -1
+    },
+    "outputs": {
+      "x": 376.8125,
+      "y": 179.84375,
+      "index": -1
+    },
+    "chat": {
+      "x": 139.515625,
+      "y": -10.28125,
+      "index": 0
+    },
+    "getEmails": {
+      "x": 459.03125,
+      "y": -218.71875,
+      "index": 1
+    },
+    "downloadGraphApiEmail": {
+      "x": 6.7734375,
+      "y": -155.15625,
+      "index": 2
+    }
+  },
+  "orientation": "Vertical"
+}

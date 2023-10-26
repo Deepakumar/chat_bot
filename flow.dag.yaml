@@ -1,0 +1,44 @@
+id: template_chat_flow
+name: Template Chat Flow
+environment:
+  python_requirements_txt: requirements.txt
+inputs:
+  question:
+    type: string
+    is_chat_input: false
+    default: how is my emails today
+  chat_history:
+    type: list
+    is_chat_input: true
+outputs:
+  summaries:
+    type: string
+    reference: ${getEmails.output}
+    is_chat_output: true
+nodes:
+- name: chat
+  type: llm
+  source:
+    type: code
+    path: chat.jinja2
+  inputs:
+    max_tokens: 256
+    temperature: 0
+    model: gpt-3.5-turbo
+    question: ${inputs.question}
+    json: ${getEmails.output}
+  connection: con_openAI
+  api: chat
+- name: getEmails
+  type: python
+  source:
+    type: code
+    path: getEmails.py
+  inputs: {}
+- name: downloadGraphApiEmail
+  type: python
+  source:
+    type: code
+    path: downloadGraphApiEmail.py
+  inputs:
+    input1: ${inputs.question}

@@ -1,0 +1,628 @@
+{
+    "@odata.context": "https://graph.microsoft.com/v1.0/$metadata#users('5c4b266d-d79c-4cd6-aa1a-926536a626dd')/messages",
+    "value": [
+        {
+            "@odata.etag": "W/\"CQAAABYAAACtRUmtfGQbT6tMtwJ/4/5AAAOWjpM9\"",
+            "id": "AAMkAGU4NjEzODBlLWE4NzctNDFjOS05MTc0LWI5MGUxNzVhMTAxYQBGAAAAAAAgpKUZpyVmS5noesVIpF8ABwCtRUmtfGQbT6tMtwJ-4-5AAANurrlqAACtRUmtfGQbT6tMtwJ-4-5AAAOY8eOIAAA=",
+            "createdDateTime": "2023-10-24T06:02:38Z",
+            "lastModifiedDateTime": "2023-10-24T06:02:38Z",
+            "changeKey": "CQAAABYAAACtRUmtfGQbT6tMtwJ/4/5AAAOWjpM9",
+            "categories": [],
+            "receivedDateTime": "2023-10-24T06:02:38Z",
+            "sentDateTime": "2023-10-24T06:02:38Z",
+            "hasAttachments": false,
+            "internetMessageId": "<PSAPR04MB41334A3731F3596EFB8ABE01A1DFA@PSAPR04MB4133.apcprd04.prod.outlook.com>",
+            "subject": null,
+            "bodyPreview": "",
+            "importance": "normal",
+            "parentFolderId": "AAMkAGU4NjEzODBlLWE4NzctNDFjOS05MTc0LWI5MGUxNzVhMTAxYQAuAAAAAAAgpKUZpyVmS5noesVIpF8AAQCtRUmtfGQbT6tMtwJ-4-5AAANurrlqAAA=",
+            "conversationId": "AAQkAGU4NjEzODBlLWE4NzctNDFjOS05MTc0LWI5MGUxNzVhMTAxYQAQAHueC9PzwtdJrJTO8PBuYNM=",
+            "conversationIndex": "AQHaBj+we54L0/PC10mslM7w8G5g0w==",
+            "isDeliveryReceiptRequested": null,
+            "isReadReceiptRequested": false,
+            "isRead": true,
+            "isDraft": true,
+            "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkAGU4NjEzODBlLWE4NzctNDFjOS05MTc0LWI5MGUxNzVhMTAxYQBGAAAAAAAgpKUZpyVmS5noesVIpF8ABwCtRUmtfGQbT6tMtwJ%2F4%2F5AAANurrlqAACtRUmtfGQbT6tMtwJ%2F4%2F5AAAOY8eOIAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+            "inferenceClassification": "focused",
+            "body": {
+                "contentType": "text",
+                "content": ""
+            },
+            "toRecipients": [],
+            "ccRecipients": [],
+            "bccRecipients": [],
+            "replyTo": [],
+            "flag": {
+                "flagStatus": "notFlagged"
+            }
+        },
+        {
+            "@odata.etag": "W/\"CQAAABYAAACtRUmtfGQbT6tMtwJ/4/5AAAOWjn8R\"",
+            "id": "AAMkAGU4NjEzODBlLWE4NzctNDFjOS05MTc0LWI5MGUxNzVhMTAxYQBGAAAAAAAgpKUZpyVmS5noesVIpF8ABwCtRUmtfGQbT6tMtwJ-4-5AAAAAAAEMAACtRUmtfGQbT6tMtwJ-4-5AAAOY8cA4AAA=",
+            "createdDateTime": "2023-10-23T11:04:57Z",
+            "lastModifiedDateTime": "2023-10-23T11:04:59Z",
+            "changeKey": "CQAAABYAAACtRUmtfGQbT6tMtwJ/4/5AAAOWjn8R",
+            "categories": [],
+            "receivedDateTime": "2023-10-23T11:04:57Z",
+            "sentDateTime": "2023-10-23T11:04:50Z",
+            "hasAttachments": false,
+            "internetMessageId": "<65365352a82cd_86da9810029@lowworker-5679cbc46b-6ndsw.mail>",
+            "subject": "[GitHub] Please verify your device",
+            "bodyPreview": "CAUTION: This email was sent from outside of BISTEC Global. Please do not click links or open attachments unless you recognize the sender.\r\n\r\nHey deepakumarbistecg!\r\n\r\nA sign in attempt requires further verification because we did not recognize your devic",
+            "importance": "normal",
+            "parentFolderId": "AQMkAGU4NjEzODBlLWE4NzcALTQxYzktOTE3NC1iOTBlMTc1YTEwMWEALgAAAyCkpRmnJWZLmeh6xUikXwABAK1FSa18ZBtPq0y3An-j-kAAAAIBDAAAAA==",
+            "conversationId": "AAQkAGU4NjEzODBlLWE4NzctNDFjOS05MTc0LWI5MGUxNzVhMTAxYQAQAJAWXJFwthhBk9g8GGC-2WQ=",
+            "conversationIndex": "AQHaBaDCkBZckXC2GEGT2DwYYL/ZZA==",
+            "isDeliveryReceiptRequested": null,
+            "isReadReceiptRequested": false,
+            "isRead": true,
+            "isDraft": false,
+            "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkAGU4NjEzODBlLWE4NzctNDFjOS05MTc0LWI5MGUxNzVhMTAxYQBGAAAAAAAgpKUZpyVmS5noesVIpF8ABwCtRUmtfGQbT6tMtwJ%2F4%2F5AAAAAAAEMAACtRUmtfGQbT6tMtwJ%2F4%2F5AAAOY8cA4AAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+            "inferenceClassification": "focused",
+            "body": {
+                "contentType": "text",
+                "content": "CAUTION: This email was sent from outside of BISTEC Global. Please do not click links or open attachments unless you recognize the sender.\r\n\r\nHey deepakumarbistecg!\r\n\r\nA sign in attempt requires further verification because we did not recognize your device. To complete the sign in, enter the verification code on the unrecognized device.\r\n\r\nDevice: Microsoft Edge on Windows\r\nVerification code: 768796\r\n\r\nIf you did not attempt to sign in to your account, your password may be compromised. Visit https://github.com/settings/security to create a new, strong password for your GitHub account.\r\n\r\nIf you'd like to automatically verify devices in the future, consider enabling two-factor authentication on your account. Visit https://docs.github.com/articles/configuring-two-factor-authentication to learn about two-factor authentication.\r\n\r\nIf you decide to enable two-factor authentication, ensure you retain access to one or more account recovery methods. See https://docs.github.com/articles/configuring-two-factor-authentication-recovery-methods in the GitHub Help.\r\n\r\nThanks,\r\nThe GitHub Team\r\n"
+            },
+            "sender": {
+                "emailAddress": {
+                    "name": "GitHub",
+                    "address": "noreply@github.com"
+                }
+            },
+            "from": {
+                "emailAddress": {
+                    "name": "GitHub",
+                    "address": "noreply@github.com"
+                }
+            },
+            "toRecipients": [
+                {
+                    "emailAddress": {
+                        "name": "Deepakumar Ganeshamany | BISTEC Global",
+                        "address": "Deepakumar@bistecglobal.com"
+                    }
+                }
+            ],
+            "ccRecipients": [],
+            "bccRecipients": [],
+            "replyTo": [],
+            "flag": {
+                "flagStatus": "notFlagged"
+            }
+        },
+        {
+            "@odata.etag": "W/\"CQAAABYAAACtRUmtfGQbT6tMtwJ/4/5AAAOWjnYJ\"",
+            "id": "AAMkAGU4NjEzODBlLWE4NzctNDFjOS05MTc0LWI5MGUxNzVhMTAxYQBGAAAAAAAgpKUZpyVmS5noesVIpF8ABwCtRUmtfGQbT6tMtwJ-4-5AAAAAAAEMAACtRUmtfGQbT6tMtwJ-4-5AAAOY8cA3AAA=",
+            "createdDateTime": "2023-10-23T08:01:41Z",
+            "lastModifiedDateTime": "2023-10-23T08:01:43Z",
+            "changeKey": "CQAAABYAAACtRUmtfGQbT6tMtwJ/4/5AAAOWjnYJ",
+            "categories": [],
+            "receivedDateTime": "2023-10-23T08:01:41Z",
+            "sentDateTime": "2023-10-23T08:01:11Z",
+            "hasAttachments": false,
+            "internetMessageId": "<CAOHLG2xX9nE4Kav03nAMg1o303bnuRw2U3Ton8jc2TL8i=pn-g@mail.gmail.com>",
+            "subject": "AC Service",
+            "bodyPreview": "CAUTION: This email was sent from outside of BISTEC Global. Please do not click links or open attachments unless you recognize the sender.\r\nHey Hatchers,\r\nPlease be informed that Please Hatch facilities will commence servicing the AC indoor units starting",
+            "importance": "normal",
+            "parentFolderId": "AQMkAGU4NjEzODBlLWE4NzcALTQxYzktOTE3NC1iOTBlMTc1YTEwMWEALgAAAyCkpRmnJWZLmeh6xUikXwABAK1FSa18ZBtPq0y3An-j-kAAAAIBDAAAAA==",
+            "conversationId": "AAQkAGU4NjEzODBlLWE4NzctNDFjOS05MTc0LWI5MGUxNzVhMTAxYQAQAAeNkTeTOYNMhPWkzTrGvFA=",
+            "conversationIndex": "AQHaBYcoB42RN5M5g0yE9aTNOsa8UA==",
+            "isDeliveryReceiptRequested": null,
+            "isReadReceiptRequested": false,
+            "isRead": false,
+            "isDraft": false,
+            "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkAGU4NjEzODBlLWE4NzctNDFjOS05MTc0LWI5MGUxNzVhMTAxYQBGAAAAAAAgpKUZpyVmS5noesVIpF8ABwCtRUmtfGQbT6tMtwJ%2F4%2F5AAAAAAAEMAACtRUmtfGQbT6tMtwJ%2F4%2F5AAAOY8cA3AAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+            "inferenceClassification": "focused",
+            "body": {
+                "contentType": "html",
+                "content": "<html><head>\r\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\"></head><body><table border=\"0\" cellspacing=\"0\" cellpadding=\"0\" align=\"left\" width=\"`&quot;100%`&quot;\"><tbody><tr><td style=\"background:#bba555; padding:5.25pt 5.5pt 5.25pt 1.5pt\"></td><td width=\"`&quot;100%`&quot;\" cellpadding=\"`&quot;7px\" color=\"`&quot;#212121`&quot;\" style=\"width:100.0%; background:#ffe599; padding:5.25pt \n3.75pt 5.25pt 11.25pt; word-wrap:break-word\"><div><p><span style=\"font-size:11pt; font-family:Arial,sans-serif; color:#212121\"><b>CAUTION:</b> This email was sent from outside of BISTEC Global. Please do not click links or open attachments unless you recognize the sender. </span></p></div></td></tr></tbody></table><div><div dir=\"ltr\"><p class=\"MsoNormal\" style=\"margin:0in 0in 8pt; line-height:107%\"><font face=\"arial, sans-serif\" style=\"\">Hey Hatchers,</font></p><p class=\"MsoNormal\" style=\"margin:0in 0in 8pt; line-height:107%\"><font face=\"arial, sans-serif\">Please be informed that Please Hatch facilities will commence servicing the AC indoor units starting today. (23 October 2023 to 10 November 2023) This service has been scheduled outside of regular office hours to minimize any inconvenience to you. Please be aware that we will need access to all private offices during this period.</font></p><p class=\"MsoNormal\" style=\"margin:0in 0in 8pt; line-height:107%\"><font face=\"arial, sans-serif\">Your understanding and continued support are greatly appreciated.</font></p><div><br></div><span class=\"gmail_signature_prefix\">-- </span><br><div dir=\"ltr\" class=\"gmail_signature\" data-smartmail=\"gmail_signature\"><div dir=\"ltr\"><div dir=\"ltr\" align=\"left\" style=\"margin-left:0pt\"><table style=\"border:none; border-collapse:collapse\"><colgroup><col width=\"162\"><col width=\"426\"></colgroup><tbody><tr style=\"height:168.1902099609375pt\"><td style=\"border-right:2.25pt solid rgb(233,66,102); vertical-align:middle; padding:0pt 5pt 0pt 0pt; overflow:hidden\"><p dir=\"ltr\" style=\"line-height:1.38; margin-top:0pt; margin-bottom:0pt\"><span style=\"font-size:11pt; font-family:Arial; color:rgb(0,0,0); background-color:transparent; vertical-align:baseline; white-space:pre-wrap\"><span style=\"border:none; display:inline-block; overflow:hidden; width:155px; height:155px\"><img src=\"https://lh3.googleusercontent.com/6bxzPq9q1C0hEP9nQk7vwswiuV8ZDk9vjmlRXM4ECWqpsZCWpUZFPD31L63GSeaImuHkacRXcuIace0Bx73JK9cHrI-70efghBld5skUYyQPAF7QVNKKwOzuBYQHZ7KzhQ\" width=\"155\" height=\"155\" style=\"margin-left:0px; margin-top:0px\"></span></span></p></td><td style=\"border-left:2.25pt solid rgb(233,66,102); vertical-align:middle; padding:0pt 0pt 0pt 5pt; overflow:hidden\"><br><div dir=\"ltr\" align=\"left\" style=\"margin-left:0pt\"><table style=\"border:none; border-collapse:collapse\"><colgroup><col width=\"256\"></colgroup><tbody><tr style=\"height:23.818359375pt\"><td colspan=\"2\" style=\"vertical-align:top; padding:0pt 0pt 2pt 0pt; overflow:hidden\"><p dir=\"ltr\" style=\"line-height:1.68; margin-left:36pt; margin-top:0pt; margin-bottom:0pt\"><span style=\"font-size:12pt; font-family:Arial; color:rgb(233,66,102); background-color:transparent; vertical-align:baseline; white-space:pre-wrap\">Tharaka Jayawardana&nbsp;</span></p></td></tr><tr style=\"height:9pt\"><td colspan=\"2\" style=\"vertical-align:top; overflow:hidden\"><p dir=\"ltr\" style=\"line-height:1.2; margin-left:36pt; margin-top:0pt; margin-bottom:0pt\"><font face=\"arial, sans-serif\"><span style=\"color:rgb(51,51,51); background-color:transparent; vertical-align:baseline; white-space:pre-wrap\">Manager - Facilities/</span>Project&nbsp;&nbsp;<span style=\"background-color:transparent; color:rgb(51,51,51)\">&nbsp;</span></font></p></td></tr><tr style=\"height:12pt\"><td colspan=\"2\" style=\"vertical-align:top; overflow:hidden\"><p dir=\"ltr\" style=\"line-height:1.68; margin-left:36pt; margin-top:0pt; margin-bottom:0pt\"><span style=\"font-size:9pt; font-family:Arial; color:rgb(51,51,51); background-color:transparent; font-weight:700; vertical-align:baseline; white-space:pre-wrap\">Hatch Works (Pvt) Ltd</span></p></td></tr><tr style=\"height:12pt\"><td colspan=\"2\" style=\"vertical-align:top; overflow:hidden\"><p dir=\"ltr\" style=\"line-height:1.68; margin-left:36pt; margin-top:0pt; margin-bottom:0pt\"><span style=\"font-size:9pt; font-family:Arial; color:rgb(233,66,102); background-color:transparent; vertical-align:baseline; white-space:pre-wrap\">M: </span><span style=\"font-size:9pt; font-family:Arial; color:rgb(51,51,51); vertical-align:baseline; white-space:pre-wrap\">+94 76 226 9761</span></p></td></tr><tr style=\"height:9pt\"><td colspan=\"2\" style=\"vertical-align:top; overflow:hidden\"><p dir=\"ltr\" style=\"line-height:1.2; margin-left:36pt; margin-top:0pt; margin-bottom:0pt\"><span style=\"font-size:9pt; font-family:Arial; color:rgb(233,66,102); background-color:transparent; vertical-align:baseline; white-space:pre-wrap\">A: </span><span style=\"font-size:9pt; font-family:Arial; color:rgb(51,51,51); background-color:transparent; vertical-align:baseline; white-space:pre-wrap\">No. 14, Sir Baron Jayatilake Mawatha, 00100</span></p></td></tr><tr style=\"height:12pt\"><td colspan=\"2\" style=\"vertical-align:top; overflow:hidden\"><p dir=\"ltr\" style=\"line-height:1.68; margin-left:36pt; margin-right:8pt; margin-top:0pt; margin-bottom:0pt\"><a href=\"http://www.hatch.lk/\" target=\"_blank\"><span style=\"font-size:9pt; font-family:Arial; color:rgb(233,66,102); background-color:transparent; vertical-align:baseline; white-space:pre-wrap\">W: </span></a><a href=\"http://www.hatch.lk\" target=\"_blank\"><span style=\"font-size:9pt; font-family:Arial; color:rgb(77,143,219); background-color:transparent; vertical-align:baseline; white-space:pre-wrap\">http://www.hatch.lk</span></a><span style=\"font-size:9pt; font-family:Arial; color:rgb(233,66,102); background-color:transparent; vertical-align:baseline; white-space:pre-wrap\"> E: </span><span style=\"font-size:9pt; font-family:Arial; color:rgb(77,143,219); background-color:transparent; vertical-align:baseline; white-space:pre-wrap\"><a href=\"mailto:facilities@hatch.lk\" target=\"_blank\">facilities@hatch.lk</a></span></p></td></tr><tr style=\"height:21.75pt\"><td colspan=\"2\" style=\"vertical-align:top; padding:2pt 0pt 2pt 0pt; overflow:hidden\"><p dir=\"ltr\" style=\"line-height:1.2; margin-left:36pt; margin-right:3pt; margin-top:0pt; margin-bottom:0pt\"><span style=\"font-size:10.5pt; font-family:Roboto,sans-serif; color:rgb(51,51,51); background-color:transparent; vertical-align:baseline; white-space:pre-wrap\"><span style=\"border:none; display:inline-block; overflow:hidden; width:25px; height:25px\"><img alt=\"facebook\" src=\"https://lh3.googleusercontent.com/9CCqFc8qCv2pvbvjRG2A6iEpUUgX2guQmSFiKsa89y-_3oPKPAStLRacfVYuEZww5EOTcgTtaTaONbEnp-gxKjy4d5WcNMH9QGPByjWUYZ34PlTYKWTxjgYKQjdwcD68MQ\" width=\"25\" height=\"25\" style=\"margin-left:0px; margin-top:0px\"></span></span><span style=\"font-size:10.5pt; font-family:Roboto,sans-serif; color:rgb(51,51,51); background-color:transparent; vertical-align:baseline; white-space:pre-wrap\"><span style=\"border:none; display:inline-block; overflow:hidden; width:25px; height:25px\"><img alt=\"twitter\" src=\"https://lh3.googleusercontent.com/CEYOWBFPiTT-kZGsA44Ej0GdtIhZJrbSfliaOCO3HaH2S91YhPA1_Ij1lAIuBPBTjU7WMkkyohVyiE32cwnF2tjOR6uuSYB87JF_1v9tOifxFdhuwoSZLu4pkRWeivc1IA\" width=\"25\" height=\"25\" style=\"margin-left:0px; margin-top:0px\"></span></span><span style=\"font-size:10.5pt; font-family:Roboto,sans-serif; color:rgb(51,51,51); background-color:transparent; vertical-align:baseline; white-space:pre-wrap\"><span style=\"border:none; display:inline-block; overflow:hidden; width:25px; height:25px\"><img alt=\"linkedin\" src=\"https://lh4.googleusercontent.com/qM7GS9OqmAuk2KMA1bDKdCYwVfsAz9xVrQuuLdMmlg075g4EJFuNXQD4zdO8Q8rwsNYDw7hlFdcoBxgPGpRWo9ISMuaSyacBHlmeofnPsVMXWC6UN6SCs2yiYYC6nvYb_g\" width=\"25\" height=\"25\" style=\"margin-left:0px; margin-top:0px\"></span></span><span style=\"font-size:10.5pt; font-family:Roboto,sans-serif; color:rgb(51,51,51); background-color:transparent; vertical-align:baseline; white-space:pre-wrap\"><span style=\"border:none; display:inline-block; overflow:hidden; width:25px; height:25px\"><img alt=\"instagram\" src=\"https://lh3.googleusercontent.com/I7WUcngPAfDk_m1QRwnKXLpL-d1XvXDTLzasvTQDx1KcToC1M6sX1h3KEPKxyk8IEDUon5tM9HpwdG18t67A4WcZln3bC9wQc_vE75F00R52_OLz95xHkT9a9nE3e6r-mg\" width=\"25\" height=\"25\" style=\"margin-left:0px; margin-top:0px\"></span></span></p></td></tr></tbody></table></div><p dir=\"ltr\" style=\"line-height:1.2; margin-left:36pt; margin-right:3pt; margin-top:0pt; margin-bottom:0pt\"><span style=\"font-size:10.5pt; font-family:Arial; color:rgb(51,51,51); background-color:transparent; vertical-align:baseline; white-space:pre-wrap\"><span style=\"border:none; display:inline-block; overflow:hidden; width:140px; height:62px\"><img src=\"https://lh6.googleusercontent.com/EdQ7gv4nXSuVAnKwnfjEuA3rrscBiTBZkVFf6wcYs0ffBsMOQgcUHQJmyqP3IeIuk258N4y1g87t0cvedetGCpYVPvlZzQCawA86mxst1mCuAeaYriy8rY01p0-iSJ54pA\" width=\"140\" height=\"62\" style=\"margin-left:0px; margin-top:0px\"></span></span></p></td></tr></tbody></table></div></div></div></div></div></body></html>"
+            },
+            "sender": {
+                "emailAddress": {
+                    "name": "Tharaka Jayawardana",
+                    "address": "facilities@hatch.lk"
+                }
+            },
+            "from": {
+                "emailAddress": {
+                    "name": "Tharaka Jayawardana",
+                    "address": "facilities@hatch.lk"
+                }
+            },
+            "toRecipients": [],
+            "ccRecipients": [],
+            "bccRecipients": [],
+            "replyTo": [],
+            "flag": {
+                "flagStatus": "notFlagged"
+            }
+        },
+        {
+            "@odata.etag": "W/\"CQAAABYAAACtRUmtfGQbT6tMtwJ/4/5AAAOWjnX0\"",
+            "id": "AAMkAGU4NjEzODBlLWE4NzctNDFjOS05MTc0LWI5MGUxNzVhMTAxYQBGAAAAAAAgpKUZpyVmS5noesVIpF8ABwCtRUmtfGQbT6tMtwJ-4-5AAAAAAAEMAACtRUmtfGQbT6tMtwJ-4-5AAAOY8cA2AAA=",
+            "createdDateTime": "2023-10-23T07:52:07Z",
+            "lastModifiedDateTime": "2023-10-23T07:52:08Z",
+            "changeKey": "CQAAABYAAACtRUmtfGQbT6tMtwJ/4/5AAAOWjnX0",
+            "categories": [],
+            "receivedDateTime": "2023-10-23T07:52:07Z",
+            "sentDateTime": "2023-10-23T07:52:02Z",
+            "hasAttachments": false,
+            "internetMessageId": "<SL2PR04MB3147B1AA47DB5083E1B9ABABB2D8A@SL2PR04MB3147.apcprd04.prod.outlook.com>",
+            "subject": "Vacancy - Senior Digital Marketing Executive",
+            "bodyPreview": "Hi Hearts,\u2764\ufe0f\r\n\r\n\r\n\r\nWe have a new vacancy for Senior Digital Marketing Executive!\r\n\r\nPlease share with your friends.\r\n\r\n\r\n\r\n\r\n\r\nThanks,\r\n\r\n\r\n\r\nKrishanthiny Krishnaraj\r\n\r\nRecruitment Coordinator\r\n\r\n\r\n\r\nE   : krishanthiny@bistecglobal.com\r\nM :  +94 74016790",
+            "importance": "normal",
+            "parentFolderId": "AQMkAGU4NjEzODBlLWE4NzcALTQxYzktOTE3NC1iOTBlMTc1YTEwMWEALgAAAyCkpRmnJWZLmeh6xUikXwABAK1FSa18ZBtPq0y3An-j-kAAAAIBDAAAAA==",
+            "conversationId": "AAQkAGU4NjEzODBlLWE4NzctNDFjOS05MTc0LWI5MGUxNzVhMTAxYQAQAMffzlyfrNtEhLuRdzCnZGA=",
+            "conversationIndex": "AQHaBYW/x9/OXJ+s20SEu5F3MKdkYA==",
+            "isDeliveryReceiptRequested": null,
+            "isReadReceiptRequested": false,
+            "isRead": false,
+            "isDraft": false,
+            "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkAGU4NjEzODBlLWE4NzctNDFjOS05MTc0LWI5MGUxNzVhMTAxYQBGAAAAAAAgpKUZpyVmS5noesVIpF8ABwCtRUmtfGQbT6tMtwJ%2F4%2F5AAAAAAAEMAACtRUmtfGQbT6tMtwJ%2F4%2F5AAAOY8cA2AAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+            "inferenceClassification": "focused",
+            "body": {
+                "contentType": "html",
+                "content": "<html><head>\r\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\"><style type=\"text/css\" style=\"display:none\">\r\n<!--\r\np\r\n\t{margin-top:0;\r\n\tmargin-bottom:0}\r\n-->\r\n</style></head><body dir=\"ltr\"><div class=\"elementToProof\" style=\"font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)\"><span class=\"x_x_x_elementToProof\" style=\"font-size:12pt; font-family:Calibri,Arial,Helvetica,sans-serif,serif,EmojiFont; margin:0px; color:rgb(0,0,0); background-color:rgb(255,255,255)\"><span class=\"x_x_x_x_elementToProof\" style=\"margin:0px\"><span style=\"margin:0px; color:black; background-color:white\"><span style=\"font-size:11pt; font-family:Calibri,sans-serif,serif,EmojiFont; margin:0px; color:rgb(36,36,36)\"><span class=\"x_x_x_x_x_x_ContentPasted2 x_x_x_x_x_ContentPasted2 x_x_x_x_ContentPasted2 x_x_x_ContentPasted2 x_x_ContentPasted2 x_ContentPasted2 ContentPasted2\" style=\"margin:0px; color:black\">Hi&nbsp;</span></span><span style=\"font-size:11pt; font-family:Calibri,sans-serif,serif,EmojiFont; margin:0px; color:rgb(36,36,36)\"><span style=\"font-size:12pt; margin:0px; color:black\"><span data-markjs=\"true\" style=\"font-size:11pt; margin:0px\"><span data-markjs=\"true\" style=\"margin:0px\"><span data-markjs=\"true\" style=\"margin:0px\"><span data-markjs=\"true\" style=\"margin:0px\"><span data-markjs=\"true\" class=\"x_x_x_x_x_x_ContentPasted2 x_x_x_x_x_ContentPasted2\" style=\"margin:0px\"><span data-markjs=\"true\" class=\"x_x_x_x_markd6bfcv1f2 x_x_x_x_ContentPasted2\" data-ogac=\"\" data-ogab=\"\" data-ogsc=\"\" data-ogsb=\"\" style=\"margin:0px\"><span data-markjs=\"true\" class=\"x_x_x_mark5ufcl96lb x_x_x_ContentPasted2 x_x_ContentPasted2\" data-ogac=\"\" data-ogab=\"\" data-ogsc=\"\" data-ogsb=\"\" style=\"margin:0px\"><span data-markjs=\"true\" class=\"x_markrl6hcugnw x_ContentPasted2\" data-ogac=\"\" data-ogab=\"\" data-ogsc=\"\" data-ogsb=\"\" style=\"margin:0px\"><span data-markjs=\"true\" class=\"markfdb1o9fzr ContentPasted2\" data-ogac=\"\" data-ogab=\"\" data-ogsc=\"\" data-ogsb=\"\" style=\"margin:0px\">Hearts</span></span></span></span></span></span></span></span></span></span><span class=\"x_x_x_x_x_x_ContentPasted2 x_x_x_x_x_ContentPasted2 x_x_x_x_ContentPasted2 x_x_x_ContentPasted2 x_x_ContentPasted2 x_ContentPasted2 ContentPasted2\" style=\"margin:0px; color:black\">,</span></span><span style=\"font-size:11pt; font-family:Calibri,sans-serif,serif,EmojiFont; margin:0px; color:rgb(36,36,36)\"><span class=\"x_x_x_x_x_x_ContentPasted2 x_x_x_x_x_ContentPasted2 x_x_x_x_ContentPasted2 x_x_x_ContentPasted2 x_x_ContentPasted2 x_ContentPasted2 ContentPasted2\" style=\"font-size:12pt; font-family:&quot;Segoe UI Emoji&quot;,sans-serif,serif,EmojiFont; margin:0px; color:black\">\u2764</span></span><span style=\"font-size:11pt; font-family:Calibri,sans-serif,serif,EmojiFont; margin:0px; color:rgb(36,36,36)\"><span class=\"x_x_x_x_x_x_ContentPasted2 x_x_x_x_x_ContentPasted2 x_x_x_x_ContentPasted2 x_x_x_ContentPasted2 x_x_ContentPasted2 x_ContentPasted2 ContentPasted2\" style=\"font-size:12pt; margin:0px; color:black\">\ufe0f</span></span></span><span style=\"margin:0px; display:inline!important; background-color:rgb(255,255,255)\"></span><span style=\"margin:0px; display:inline!important; background-color:rgb(255,255,255)\"></span></span></span><span style=\"font-family:Calibri,Arial,Helvetica,sans-serif,serif,EmojiFont; margin:0px; display:inline!important; background-color:rgb(255,255,255)\"></span><span style=\"font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif,serif,EmojiFont; display:inline!important; background-color:rgb(255,255,255)\"></span> <div class=\"x_x_x_elementToProof\" style=\"font-size:12pt; font-family:Calibri,Arial,Helvetica,sans-serif,serif,EmojiFont; margin:0px; color:rgb(0,0,0); background-color:rgb(255,255,255)\"><div class=\"x_x_x_x_elementToProof\" style=\"margin:0px\"><div style=\"font-size:15px; margin:0px; color:rgb(36,36,36); background-color:white\"><div style=\"font-size:12pt; margin:0px; color:black\"><div style=\"font-size:15px; margin:0px; color:rgb(36,36,36); background-color:white\"><p style=\"margin:0px; font-size:11pt; font-family:Calibri,sans-serif\"><span style=\"font-size:12pt; margin:0px; color:black\"></span></p></div><div style=\"font-size:15px; margin:0px; color:rgb(36,36,36); background-color:white\"><div style=\"margin:0px\"><div style=\"margin:0px\"><div style=\"margin:0px\"><div style=\"margin:0px\"><div style=\"margin:0px\"><div style=\"margin:0px\"><p style=\"margin:0px; font-size:11pt; font-family:Calibri,sans-serif; background-color:white\"><span class=\"x_x_x_x_x_x_ContentPasted2 x_x_x_x_x_ContentPasted2 x_x_x_x_ContentPasted2 x_x_x_ContentPasted2 x_x_ContentPasted2 x_ContentPasted2 ContentPasted2\" style=\"font-size:12pt; margin:0px; color:black\">&nbsp;</span></p></div><div style=\"margin:0px\"><p style=\"margin:0px; font-size:11pt; font-family:Calibri,sans-serif; background-color:white\"><span class=\"x_x_x_x_x_x_ContentPasted2 x_x_x_x_x_ContentPasted2 x_x_x_x_ContentPasted2 x_x_x_ContentPasted2 x_x_ContentPasted2 x_ContentPasted2 ContentPasted2\" style=\"margin:0px; color:black\">We have a new<span class=\"x_x_x_x_x_x_ContentPasted2 x_x_x_x_x_ContentPasted2 x_x_x_x_ContentPasted2 x_x_x_ContentPasted2 x_x_ContentPasted2 x_ContentPasted2 ContentPasted2\" style=\"margin:0px\">&nbsp;<span style=\"margin:0px; background-color:white\"><span data-markjs=\"true\" class=\"x_x_x_x_x_x_ContentPasted2 x_x_x_x_x_ContentPasted2 x_x_x_x_ContentPasted2 x_x_x_ContentPasted2 x_x_ContentPasted2 x_ContentPasted2 ContentPasted2\" style=\"margin:0px\">v</span></span><span data-markjs=\"true\" style=\"margin:0px\"><span data-markjs=\"true\" class=\"x_x_x_x_x_x_ContentPasted2 x_x_x_x_x_ContentPasted2 x_x_x_x_ContentPasted2 x_x_x_ContentPasted2 x_x_ContentPasted2 x_ContentPasted2 ContentPasted2\" style=\"margin:0px\">acancy</span></span><span class=\"x_x_x_x_x_x_ContentPasted2 x_x_x_x_x_ContentPasted2 x_x_x_x_ContentPasted2 x_x_x_ContentPasted2 x_x_ContentPasted2 x_ContentPasted2 ContentPasted2\" style=\"margin:0px; background-color:white\">&nbsp;</span><span data-markjs=\"true\" class=\"x_x_x_x_x_x_ContentPasted2 x_x_x_x_x_ContentPasted2 x_x_x_x_ContentPasted2 x_x_x_ContentPasted2 x_x_ContentPasted2 x_ContentPasted2 ContentPasted2\" style=\"margin:0px\">for Senior Digital Marketing Executive!</span></span></span><span style=\"font-size:12pt; margin:0px; color:black\"></span></p></div><div style=\"margin:0px\"><p style=\"margin:0px; font-size:11pt; font-family:Calibri,sans-serif; background-color:white\"><span class=\"x_x_x_x_x_x_ContentPasted2 x_x_x_x_x_ContentPasted2 x_x_x_x_ContentPasted2 x_x_x_ContentPasted2 x_x_ContentPasted2 x_ContentPasted2 ContentPasted2\" style=\"margin:0px; color:black\">Please share with your friends.</span></p><p style=\"margin:0px; font-size:11pt; font-family:Calibri,sans-serif; background-color:white\"><span class=\"x_x_x_x_x_x_ContentPasted2 x_x_x_x_x_ContentPasted2 x_x_x_x_ContentPasted2 x_x_x_ContentPasted2 x_x_ContentPasted2 x_ContentPasted2 ContentPasted2\" style=\"margin:0px; color:black\"><br></span></p><p style=\"margin:0px; font-size:11pt; font-family:Calibri,sans-serif; background-color:white\"><span class=\"x_x_x_x_x_x_ContentPasted2 x_x_x_x_x_ContentPasted2 x_x_x_x_ContentPasted2 x_x_x_ContentPasted2 x_x_ContentPasted2 x_ContentPasted2 ContentPasted2\" style=\"margin:0px; color:black\"><img class=\"ContentPasted3 w-1080 h-1080\" size=\"624357\" data-outlook-trace=\"F:1|T:1\" src=\"cid:cb3ded7c-73c0-4b8e-962e-982167599318\" style=\"max-width:100%\"><br></span></p></div></div></div></div></div></div></div></div></div></div></div><br></div><div class=\"elementToProof\"><div style=\"font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)\"><br></div><div id=\"Signature\"><div><div><span style=\"font-family:Calibri,Arial,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0); background-color:rgb(255,255,255)\"><p style=\"background:white; margin:0in; font-size:11pt; font-family:Calibri,sans-serif\"><span class=\"ContentPasted0\" style=\"margin:0px; color:rgb(32,31,30)\">Thanks,&nbsp;</span></p><p style=\"background:white; margin:0in; font-size:11pt; font-family:Calibri,sans-serif\"><span style=\"margin:0px; color:rgb(32,31,30)\">&nbsp;</span></p><table width=\"660\" id=\"tableSelected1\" style=\"font-size:14px; width:495pt\"><tbody><tr><td valign=\"top\" style=\"padding:0in\"><p style=\"margin:0in; font-size:11pt; font-family:Calibri,sans-serif\"><span class=\"ContentPasted0\" style=\"border:1pt none windowtext; font-size:12pt; margin:0px; padding:0in; color:rgb(0,107,156)\">Krishanthiny Krishnaraj<span class=\"ContentPasted0\">&nbsp;</span>&nbsp;</span></p><div style=\"font-size:11pt; font-family:Calibri,sans-serif; margin:0px 0in\"><span class=\"ContentPasted0\" style=\"border:1pt none windowtext; font-size:12pt; margin:0px; padding:0in; color:rgb(0,107,156)\">Recruitment Coordinator</span><span style=\"border:1pt none windowtext; font-family:&quot;Times New Roman&quot;,serif; margin:0px; padding:0in\"><br class=\"ContentPasted0\"></span><span style=\"border:1pt none windowtext; font-size:9pt; font-family:&quot;Times New Roman&quot;,serif; margin:0px; padding:0in\"><br class=\"ContentPasted0\"></span><span style=\"border:1pt none windowtext; font-family:&quot;Times New Roman&quot;,serif; margin:0px; padding:0in\"><a href=\"https://lk.linkedin.com/in/krishanthinykrishnaraj\" title=\"https://lk.linkedin.com/in/krishanthinykrishnaraj\" class=\"ContentPasted0\" style=\"margin:0px\"><img width=\"18\" height=\"18\" data-outlook-trace=\"F:1|T:1\" src=\"cid:4718e4dd-b144-4d14-af5d-3313c703f9ae\" style=\"margin:0px; width:18px; height:18px\"></a><br class=\"ContentPasted0\"><br class=\"ContentPasted0\"></span><b><span class=\"ContentPasted0\" style=\"border:1pt none windowtext; font-size:10pt; margin:0px; padding:0in; color:rgb(0,107,156)\">E&nbsp;&nbsp;&nbsp;:&nbsp;<u>k</u></span></b><b><span style=\"border:1pt none windowtext; font-size:10pt; margin:0px; padding:0in; color:rgb(0,107,156)\"><a href=\"mailto:Krishanthiny@bistecglobal.com\" class=\"ContentPasted0\" style=\"margin:0px\"><span style=\"margin:0px; color:rgb(5,99,193)\">rishanthiny</span><span style=\"margin:0px; color:rgb(5,99,193)\">@bistecglobal.com</span></a></span></b><b><span class=\"ContentPasted0\" style=\"border:1pt none windowtext; font-size:10pt; margin:0px; padding:0in; color:rgb(0,107,156)\"><br class=\"ContentPasted0\">M&nbsp;:&nbsp;&nbsp;+94 740167907&nbsp;</span></b></div><p style=\"margin:0in; font-size:11pt; font-family:Calibri,sans-serif\"><b><span class=\"ContentPasted0\" style=\"border:1pt none windowtext; font-size:10pt; margin:0px; padding:0in; color:rgb(0,107,156)\">W&nbsp;:&nbsp;&nbsp;<a href=\"http://www.bistecglobal.com/\" target=\"_blank\" title=\"Original URL: http://www.bistecglobal.com/. Click or tap if you trust this link.\" class=\"ContentPasted0\" style=\"margin:0px\"><span style=\"margin:0px; color:rgb(5,99,193)\">www.bistecglobal.com</span></a></span></b></p><p style=\"margin:0in; font-size:11pt; font-family:Calibri,sans-serif\"><span style=\"margin:0px\"><br></span></p><p style=\"margin:0in; font-size:11pt; font-family:Calibri,sans-serif\"><span style=\"margin:0px\"><br></span></p><p style=\"margin:0in; font-size:11pt; font-family:Calibri,sans-serif\"><span style=\"margin:0px\"><br></span></p><p style=\"margin:0in; font-size:11pt; font-family:Calibri,sans-serif\"><span style=\"margin:0px\"><br></span></p><p style=\"margin:0in; font-size:11pt; font-family:Calibri,sans-serif\"><span style=\"margin:0px\"><br></span></p></td><td valign=\"top\" data-editing-info=\"{&quot;bgColorOverride&quot;:true}\" style=\"padding:0in\"><br class=\"ContentPasted0\"></td><td valign=\"top\" data-editing-info=\"{&quot;bgColorOverride&quot;:true}\" style=\"padding:0in 15pt 0in 0in\"><p style=\"margin:0in; font-size:11pt; font-family:Calibri,sans-serif\"><span style=\"font-family:&quot;Times New Roman&quot;,serif,serif,EmojiFont; margin:0px\"><b style=\"\"><img class=\"ContentPasted1\" data-outlook-trace=\"F:1|T:1\" src=\"cid:ff0405e0-8889-42e9-9d7e-16f8a786ed5e\" style=\"max-width:100%\"></b></span></p></td></tr></tbody></table><br></span></div></div></div></div></body></html>"
+            },
+            "sender": {
+                "emailAddress": {
+                    "name": "Krishanthiny Krishnaraj | BISTEC Global",
+                    "address": "krishanthiny@bistecglobal.com"
+                }
+            },
+            "from": {
+                "emailAddress": {
+                    "name": "Krishanthiny Krishnaraj | BISTEC Global",
+                    "address": "krishanthiny@bistecglobal.com"
+                }
+            },
+            "toRecipients": [
+                {
+                    "emailAddress": {
+                        "name": "#All Hearts | BISTEC Global",
+                        "address": "AllHearts@bistecglobal.com"
+                    }
+                }
+            ],
+            "ccRecipients": [],
+            "bccRecipients": [],
+            "replyTo": [],
+            "flag": {
+                "flagStatus": "notFlagged"
+            }
+        },
+        {
+            "@odata.etag": "W/\"CQAAABYAAACtRUmtfGQbT6tMtwJ/4/5AAAOWjnOJ\"",
+            "id": "AAMkAGU4NjEzODBlLWE4NzctNDFjOS05MTc0LWI5MGUxNzVhMTAxYQBGAAAAAAAgpKUZpyVmS5noesVIpF8ABwCtRUmtfGQbT6tMtwJ-4-5AAAAAAAEMAACtRUmtfGQbT6tMtwJ-4-5AAAOY8cA1AAA=",
+            "createdDateTime": "2023-10-23T07:00:51Z",
+            "lastModifiedDateTime": "2023-10-23T07:04:13Z",
+            "changeKey": "CQAAABYAAACtRUmtfGQbT6tMtwJ/4/5AAAOWjnOJ",
+            "categories": [],
+            "receivedDateTime": "2023-10-23T07:00:51Z",
+            "sentDateTime": "2023-10-23T07:00:45Z",
+            "hasAttachments": false,
+            "internetMessageId": "<65361a1d6a4ae_7ada9857876@lowworker-9b456d6c-mtz4q.mail>",
+            "subject": "glbdhananjaya invited you to glbdhananjaya/Email_Analyser_with_PF",
+            "bodyPreview": "CAUTION: This email was sent from outside of BISTEC Global. Please do not click links or open attachments unless you recognize the sender.\r\n\r\n\r\n\r\n@glbdhananjaya has invited you to collaborate on the\r\nglbdhananjaya/Email_Analyser_with_PF repository\r\n______",
+            "importance": "normal",
+            "parentFolderId": "AQMkAGU4NjEzODBlLWE4NzcALTQxYzktOTE3NC1iOTBlMTc1YTEwMWEALgAAAyCkpRmnJWZLmeh6xUikXwABAK1FSa18ZBtPq0y3An-j-kAAAAIBDAAAAA==",
+            "conversationId": "AAQkAGU4NjEzODBlLWE4NzctNDFjOS05MTc0LWI5MGUxNzVhMTAxYQAQALZd5Ylx8MxMmbJVYQsPm7Q=",
+            "conversationIndex": "AQHaBX6otl3liXHwzEyZslVhCw+btA==",
+            "isDeliveryReceiptRequested": null,
+            "isReadReceiptRequested": false,
+            "isRead": true,
+            "isDraft": false,
+            "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkAGU4NjEzODBlLWE4NzctNDFjOS05MTc0LWI5MGUxNzVhMTAxYQBGAAAAAAAgpKUZpyVmS5noesVIpF8ABwCtRUmtfGQbT6tMtwJ%2F4%2F5AAAAAAAEMAACtRUmtfGQbT6tMtwJ%2F4%2F5AAAOY8cA1AAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+            "inferenceClassification": "focused",
+            "body": {
+                "contentType": "html",
+                "content": "<html lang=\"en\"><head>\r\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\"></head><body bgcolor=\"#fafafa\" topmargin=\"0\" leftmargin=\"0\" marginheight=\"0\" marginwidth=\"0\" style=\"width:100%!important; min-width:100%; background-color:#fafafa; color:#333333; font-family:'Helvetica Neue',Helvetica,Arial,sans-serif; font-weight:normal; text-align:center; line-height:20px; font-size:14px; margin:0; padding:0\"><table border=\"0\" cellspacing=\"0\" cellpadding=\"0\" align=\"left\" width=\"`&quot;100%`&quot;\"><tbody><tr><td style=\"background:#bba555; padding:5.25pt 5.5pt 5.25pt 1.5pt\"></td><td width=\"`&quot;100%`&quot;\" cellpadding=\"`&quot;7px\" color=\"`&quot;#212121`&quot;\" style=\"width:100.0%; background:#ffe599; padding:5.25pt \n3.75pt 5.25pt 11.25pt; word-wrap:break-word\"><div><p><span style=\"font-size:11pt; font-family:Arial,sans-serif; color:#212121\"><b>CAUTION:</b> This email was sent from outside of BISTEC Global. Please do not click links or open attachments unless you recognize the sender. </span></p></div></td></tr></tbody></table><div><table class=\"body\" bgcolor=\"#fafafa\" style=\"border-spacing:0; border-collapse:collapse; vertical-align:top; text-align:center; height:100%; width:100%; background-color:#fafafa; color:#333333; font-family:'Helvetica Neue',Helvetica,Arial,sans-serif; font-weight:normal; line-height:20px; font-size:14px; margin:0; padding:0\"><tbody><tr align=\"center\" style=\"vertical-align:top; text-align:center; padding:0\"><td class=\"center\" align=\"center\" valign=\"top\" style=\"word-break:break-word; border-collapse:collapse!important; vertical-align:top; text-align:center; color:#333333; font-family:'Helvetica Neue',Helvetica,Arial,sans-serif; font-weight:normal; line-height:20px; font-size:14px; margin:0; padding:0\"><center style=\"width:100%; min-width:580px\"><table class=\"row header\" style=\"border-spacing:0; border-collapse:collapse; vertical-align:top; text-align:center; width:100%; padding:0px\"><tbody><tr align=\"center\" style=\"vertical-align:top; text-align:center; padding:0\"><td class=\"center\" align=\"center\" valign=\"top\" style=\"word-break:break-word; border-collapse:collapse!important; vertical-align:top; text-align:center; color:#333333; font-family:'Helvetica Neue',Helvetica,Arial,sans-serif; font-weight:normal; line-height:20px; font-size:14px; margin:0; padding:0\"><center style=\"width:100%; min-width:580px\"><table class=\"container\" style=\"border-spacing:0; border-collapse:collapse; vertical-align:top; text-align:inherit; width:580px; margin:0 auto; padding:0\"><tbody><tr align=\"center\" style=\"vertical-align:top; text-align:center; padding:0\"><td class=\"wrapper last\" align=\"center\" valign=\"top\" style=\"word-break:break-word; border-collapse:collapse!important; vertical-align:top; text-align:center; color:#333333; font-family:'Helvetica Neue',Helvetica,Arial,sans-serif; font-weight:normal; line-height:20px; font-size:14px; margin:0; padding:0 0px 0 0\"><table class=\"twelve columns\" style=\"border-spacing:0; border-collapse:collapse; vertical-align:top; text-align:center; width:540px; margin:0 auto; padding:0\"><tbody><tr align=\"center\" style=\"vertical-align:top; text-align:center; padding:0\"><td align=\"center\" valign=\"top\" style=\"word-break:break-word; border-collapse:collapse!important; vertical-align:top; text-align:center; color:#333333; font-family:'Helvetica Neue',Helvetica,Arial,sans-serif; font-weight:normal; line-height:20px; font-size:14px; margin:0; padding:0px 0px 10px\"><div class=\"mark\" align=\"center\" style=\"text-align:center\"><a href=\"https://github.com\" style=\"color:#4183C4; text-decoration:none\"><img alt=\"GitHub home\" class=\"center logo-wordmark\" src=\"https://github.githubassets.com/images/email/global/wordmark.png\" width=\"102\" height=\"28\" align=\"none\" style=\"outline:none; text-decoration:none; width:auto; max-width:100%; float:none; text-align:center; margin:0 auto; padding:25px 0 17px; border-style:none\"> </a></div></td><td class=\"expander\" align=\"center\" valign=\"top\" style=\"word-break:break-word; border-collapse:collapse!important; vertical-align:top; text-align:center; visibility:hidden; width:0px; color:#333333; font-family:'Helvetica Neue',Helvetica,Arial,sans-serif; font-weight:normal; line-height:20px; font-size:14px; margin:0; padding:0\"></td></tr></tbody></table></td></tr></tbody></table></center></td></tr></tbody></table><table class=\"container\" style=\"border-spacing:0; border-collapse:collapse; vertical-align:top; text-align:inherit; width:580px; margin:0 auto; padding:0\"><tbody><tr align=\"center\" style=\"vertical-align:top; text-align:center; padding:0\"><td align=\"center\" valign=\"top\" style=\"word-break:break-word; border-collapse:collapse!important; vertical-align:top; text-align:center; color:#333333; font-family:'Helvetica Neue',Helvetica,Arial,sans-serif; font-weight:normal; line-height:20px; font-size:14px; margin:0; padding:0\"><table class=\"row\" style=\"border-spacing:0; border-collapse:collapse; vertical-align:top; text-align:center; width:100%; display:block; padding:0px\"><tbody><tr align=\"center\" style=\"vertical-align:top; text-align:center; padding:0\"><td class=\"wrapper last\" align=\"center\" valign=\"top\" style=\"word-break:break-word; border-collapse:collapse!important; vertical-align:top; text-align:center; color:#333333; font-family:'Helvetica Neue',Helvetica,Arial,sans-serif; font-weight:normal; line-height:20px; font-size:14px; margin:0; padding:0 0px 0 0\"><div class=\"panel\" style=\"background:#ffffff; background-color:#ffffff; border-radius:3px; box-shadow:0 1px 3px rgba(0,0,0,0.05); padding:20px; border:1px solid #dddddd\"><table class=\"twelve columns\" style=\"border-spacing:0; border-collapse:collapse; vertical-align:top; text-align:center; width:540px; margin:0 auto; padding:0\"><tbody><tr align=\"center\" style=\"vertical-align:top; text-align:center; padding:0\"><td align=\"center\" valign=\"top\" style=\"word-break:break-word; border-collapse:collapse!important; vertical-align:top; text-align:center; color:#333333; font-family:'Helvetica Neue',Helvetica,Arial,sans-serif; font-weight:normal; line-height:20px; font-size:14px; margin:0; padding:0px 0px 0\"><div class=\"email-content\"><div class=\"org-content-header\" style=\"padding:15px 0 10px\"><img class=\"avatar avatar-user\" src=\"https://avatars.githubusercontent.com/u/44166845?s=120&amp;v=4\" width=\"60\" height=\"60\" alt=\"@glbdhananjaya\" style=\"outline:none; text-decoration:none; width:auto; max-width:100%; overflow:hidden; -webkit-border-radius:3px; border-radius:3px\"> <img class=\"content-header-octicon\" alt=\"plus\" src=\"https://github.githubassets.com/assets/octicon-plus-96dac899f6ef.png\" height=\"60\" style=\"outline:none; text-decoration:none; width:auto; max-width:100%\"> <img class=\"avatar avatar-user\" src=\"https://avatars.githubusercontent.com/u/148748447?s=120&amp;v=4\" width=\"60\" height=\"60\" alt=\"@deepakumarbistecg\" style=\"outline:none; text-decoration:none; width:auto; max-width:100%; overflow:hidden; -webkit-border-radius:3px; border-radius:3px\"> </div><h1 class=\"primary-heading\" align=\"center\" style=\"color:#333; font-family:'Helvetica Neue',Helvetica,Arial,sans-serif; font-weight:300; text-align:center; line-height:1.2; word-break:normal; font-size:24px; margin:10px 0 25px; padding:0\">@glbdhananjaya has invited you to collaborate on the<br><strong>glbdhananjaya/Email_Analyser_with_PF</strong> repository</h1><hr class=\"rule\" style=\"color:#d9d9d9; background-color:#d9d9d9; height:1px; margin:20px 0; border-style:none\"><p align=\"left\" style=\"word-wrap:normal; font-family:'Helvetica Neue',Helvetica,Arial,sans-serif; font-size:14px; font-weight:normal; color:#333; line-height:20px; text-align:left; margin:15px 0 5px; padding:0\">You can <a href=\"https://github.com/glbdhananjaya/Email_Analyser_with_PF/invitations\" style=\"color:#4183C4; text-decoration:none\">accept or decline</a> this invitation. You can also head over to <a href=\"https://github.com/glbdhananjaya/Email_Analyser_with_PF\" style=\"color:#4183C4; text-decoration:none\">https://github.com/glbdhananjaya/Email_Analyser_with_PF</a> to check out the repository or visit <a href=\"https://github.com/glbdhananjaya\" style=\"color:#4183C4; text-decoration:none\">@glbdhananjaya</a> to learn a bit more about them. </p><p align=\"left\" style=\"word-wrap:normal; font-family:'Helvetica Neue',Helvetica,Arial,sans-serif; font-size:14px; font-weight:normal; color:#333; line-height:20px; text-align:left; margin:15px 0 5px; padding:0\">This invitation will expire in 7 days. </p><div class=\"cta-button-wrap cta-button-wrap-centered\" align=\"center\" style=\"text-align:center; color:#ffffff; padding:20px 0 25px\"><a class=\"cta-button\" href=\"https://github.com/glbdhananjaya/Email_Analyser_with_PF/invitations\" style=\"display:inline-block; color:#fff; font-size:14px; font-weight:600; background-color:#4183C4; text-decoration:none; width:auto!important; text-align:center; border-radius:5px; -webkit-border-radius:5px; box-shadow:0px 3px 0px #25588c; letter-spacing:normal; font-family:'Helvetica Neue',Helvetica,Arial,sans-serif; margin:0 auto; padding:6px 12px\">View invitation</a> </div><p class=\"email-body-subtext\" align=\"left\" style=\"word-wrap:normal; font-family:'Helvetica Neue',Helvetica,Arial,sans-serif; font-size:13px; font-weight:normal; color:#333; line-height:20px; text-align:left; margin:15px 0 5px; padding:0\"><strong>Note:</strong> This invitation was intended for <strong>Deepakumar@bistecglobal.com</strong>. If you were not expecting this invitation, you can ignore this email. If @glbdhananjaya is sending you too many emails, you can <a href=\"https://github.com/settings/blocked_users?block_user=glbdhananjaya\" style=\"color:#4183C4; text-decoration:none\">block them</a> or <a href=\"https://github.com/contact/report-abuse?report=glbdhananjaya\" style=\"color:#4183C4; text-decoration:none\">report abuse</a>. </p><hr class=\"rule\" style=\"color:#d9d9d9; background-color:#d9d9d9; height:1px; margin:20px 0; border-style:none\"><p class=\"email-text-small email-text-gray\" align=\"left\" style=\"word-wrap:normal; font-family:'Helvetica Neue',Helvetica,Arial,sans-serif; font-size:12px; font-weight:normal; color:#777777; line-height:20px; text-align:left; margin:15px 0 5px; padding:0\"><strong>Getting a 404 error?</strong> Make sure you\u2019re signed in as <strong>deepakumarbistecg</strong>. </p><p class=\"email-text-small email-text-gray\" align=\"left\" style=\"word-wrap:normal; font-family:'Helvetica Neue',Helvetica,Arial,sans-serif; font-size:12px; font-weight:normal; color:#777777; line-height:20px; text-align:left; margin:15px 0 5px; padding:0\"><strong>Button not working?</strong> Copy and paste this link into your browser: <br><a href=\"https://github.com/glbdhananjaya/Email_Analyser_with_PF/invitations\" style=\"color:#4183C4; text-decoration:none\">https://github.com/glbdhananjaya/Email_Analyser_with_PF/invitations</a> </p></div></td><td class=\"expander\" align=\"center\" valign=\"top\" style=\"word-break:break-word; border-collapse:collapse!important; vertical-align:top; text-align:center; visibility:hidden; width:0px; color:#333333; font-family:'Helvetica Neue',Helvetica,Arial,sans-serif; font-weight:normal; line-height:20px; font-size:14px; margin:0; padding:0\"></td></tr></tbody></table></div></td></tr></tbody></table></td></tr></tbody></table><table class=\"row layout-footer\" style=\"border-spacing:0; border-collapse:collapse; vertical-align:top; text-align:center; width:100%; padding:0px\"><tbody><tr align=\"center\" style=\"vertical-align:top; text-align:center; padding:0\"><td class=\"center\" align=\"center\" valign=\"top\" style=\"word-break:break-word; border-collapse:collapse!important; vertical-align:top; text-align:center; color:#333333; font-family:'Helvetica Neue',Helvetica,Arial,sans-serif; font-weight:normal; line-height:20px; font-size:14px; margin:0; padding:0\"><center style=\"width:100%; min-width:580px\"><table class=\"container\" style=\"border-spacing:0; border-collapse:collapse; vertical-align:top; text-align:inherit; width:580px; margin:0 auto; padding:0\"><tbody><tr align=\"center\" style=\"vertical-align:top; text-align:center; padding:0\"><td class=\"wrapper last\" align=\"center\" valign=\"top\" style=\"word-break:break-word; border-collapse:collapse!important; vertical-align:top; text-align:center; color:#333333; font-family:'Helvetica Neue',Helvetica,Arial,sans-serif; font-weight:normal; line-height:20px; font-size:14px; margin:0; padding:0 0px 0 0\"><table class=\"twelve columns\" style=\"border-spacing:0; border-collapse:collapse; vertical-align:top; text-align:center; width:540px; margin:0 auto; padding:0\"><tbody><tr align=\"center\" style=\"vertical-align:top; text-align:center; padding:0\"><td align=\"center\" valign=\"top\" style=\"word-break:break-word; border-collapse:collapse!important; vertical-align:top; text-align:center; color:#333333; font-family:'Helvetica Neue',Helvetica,Arial,sans-serif; font-weight:normal; line-height:20px; font-size:14px; margin:0; padding:0px 0px 10px\"><div class=\"footer-links\" align=\"center\" style=\"text-align:center; padding:20px 0\"><p class=\"footer-text\" align=\"center\" style=\"word-wrap:normal; font-family:'Helvetica Neue',Helvetica,Arial,sans-serif; font-size:12px; font-weight:normal; color:#999; line-height:20px; text-align:center; margin:0; padding:0\"><a href=\"https://github.com/settings/emails\" style=\"color:#4183C4; text-decoration:none\">Manage your GitHub email preferences</a></p><p class=\"footer-text\" align=\"center\" style=\"word-wrap:normal; font-family:'Helvetica Neue',Helvetica,Arial,sans-serif; font-size:12px; font-weight:normal; color:#999; line-height:20px; text-align:center; margin:0; padding:0\"><a href=\"https://docs.github.com/articles/github-terms-of-service/\" style=\"color:#4183C4; text-decoration:none\">Terms</a> \u2022 <a href=\"https://docs.github.com/articles/github-privacy-policy/\" style=\"color:#4183C4; text-decoration:none\">Privacy</a> \u2022 <a href=\"https://github.com/login\" style=\"color:#4183C4; text-decoration:none\">Sign in to GitHub</a> </p></div><div class=\"content\" style=\"margin:0 0 15px\"><a href=\"https://github.com\" style=\"color:#4183C4; text-decoration:none\"><img alt=\"GitHub home\" class=\"logo-invertocat\" src=\"https://github.githubassets.com/images/email/global/footer-mark.png\" width=\"40\" height=\"38\" style=\"outline:none; text-decoration:none; width:auto; max-width:100%; border-style:none\"> </a></div><div class=\"content\" style=\"margin:0 0 15px\"><p class=\"footer-text\" align=\"center\" style=\"word-wrap:normal; font-family:'Helvetica Neue',Helvetica,Arial,sans-serif; font-size:12px; font-weight:normal; color:#999; line-height:20px; text-align:center; margin:0; padding:0\">GitHub, Inc.</p><p class=\"footer-text\" align=\"center\" style=\"word-wrap:normal; font-family:'Helvetica Neue',Helvetica,Arial,sans-serif; font-size:12px; font-weight:normal; color:#999; line-height:20px; text-align:center; margin:0; padding:0\">88 Colin P Kelly Jr Street</p><p class=\"footer-text\" align=\"center\" style=\"word-wrap:normal; font-family:'Helvetica Neue',Helvetica,Arial,sans-serif; font-size:12px; font-weight:normal; color:#999; line-height:20px; text-align:center; margin:0; padding:0\">San Francisco, CA 94107</p></div></td><td class=\"expander\" align=\"center\" valign=\"top\" style=\"word-break:break-word; border-collapse:collapse!important; vertical-align:top; text-align:center; visibility:hidden; width:0px; color:#333333; font-family:'Helvetica Neue',Helvetica,Arial,sans-serif; font-weight:normal; line-height:20px; font-size:14px; margin:0; padding:0\"></td></tr></tbody></table></td></tr></tbody></table></center></td></tr></tbody></table></center></td></tr></tbody></table></div></body></html>"
+            },
+            "sender": {
+                "emailAddress": {
+                    "name": "Bhashitha Dhananjaya",
+                    "address": "noreply@github.com"
+                }
+            },
+            "from": {
+                "emailAddress": {
+                    "name": "Bhashitha Dhananjaya",
+                    "address": "noreply@github.com"
+                }
+            },
+            "toRecipients": [
+                {
+                    "emailAddress": {
+                        "name": "Deepakumar Ganeshamany | BISTEC Global",
+                        "address": "Deepakumar@bistecglobal.com"
+                    }
+                }
+            ],
+            "ccRecipients": [],
+            "bccRecipients": [],
+            "replyTo": [],
+            "flag": {
+                "flagStatus": "notFlagged"
+            }
+        },
+        {
+            "@odata.etag": "W/\"CQAAABYAAACtRUmtfGQbT6tMtwJ/4/5AAAOWjnOB\"",
+            "id": "AAMkAGU4NjEzODBlLWE4NzctNDFjOS05MTc0LWI5MGUxNzVhMTAxYQBGAAAAAAAgpKUZpyVmS5noesVIpF8ABwCtRUmtfGQbT6tMtwJ-4-5AAAAAAAEMAACtRUmtfGQbT6tMtwJ-4-5AAAOY8cA0AAA=",
+            "createdDateTime": "2023-10-23T06:59:20Z",
+            "lastModifiedDateTime": "2023-10-23T07:04:12Z",
+            "changeKey": "CQAAABYAAACtRUmtfGQbT6tMtwJ/4/5AAAOWjnOB",
+            "categories": [],
+            "receivedDateTime": "2023-10-23T06:59:20Z",
+            "sentDateTime": "2023-10-23T06:59:13Z",
+            "hasAttachments": false,
+            "internetMessageId": "<653619c15a624_1b3d12da98380a9@github-highworker-a30833d.ash1-iad.github.net.mail>",
+            "subject": "[GitHub] Welcome to GitHub, @deepakumarbistecg!",
+            "bodyPreview": "CAUTION: This email was sent from outside of BISTEC Global. Please do not click links or open attachments unless you recognize the sender.\r\n\r\n\r\n\r\nWelcome to GitHub, @deepakumarbistecg!\r\n\r\n\r\n\r\nWelcome to GitHub\r\n\r\n\r\nYou\u2019re the newest member in this communi",
+            "importance": "normal",
+            "parentFolderId": "AQMkAGU4NjEzODBlLWE4NzcALTQxYzktOTE3NC1iOTBlMTc1YTEwMWEALgAAAyCkpRmnJWZLmeh6xUikXwABAK1FSa18ZBtPq0y3An-j-kAAAAIBDAAAAA==",
+            "conversationId": "AAQkAGU4NjEzODBlLWE4NzctNDFjOS05MTc0LWI5MGUxNzVhMTAxYQAQAFGF4KlERCpNp7_CE8IH9_I=",
+            "conversationIndex": "AQHaBX5yUYXgqUREKk2nv4ITwgf34g==",
+            "isDeliveryReceiptRequested": null,
+            "isReadReceiptRequested": false,
+            "isRead": true,
+            "isDraft": false,
+            "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkAGU4NjEzODBlLWE4NzctNDFjOS05MTc0LWI5MGUxNzVhMTAxYQBGAAAAAAAgpKUZpyVmS5noesVIpF8ABwCtRUmtfGQbT6tMtwJ%2F4%2F5AAAAAAAEMAACtRUmtfGQbT6tMtwJ%2F4%2F5AAAOY8cA0AAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+            "inferenceClassification": "focused",
+            "body": {
+                "contentType": "html",
+                "content": "<html lang=\"en\" style=\"font-family:sans-serif; box-sizing:border-box\"><head>\r\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\"><meta name=\"viewport\" content=\"width=device-width\"></head><body bgcolor=\"#fff\" style=\"box-sizing:border-box; font-size:14px; line-height:1.5; color:#24292e; background-color:#fff; margin:0\"><table border=\"0\" cellspacing=\"0\" cellpadding=\"0\" align=\"left\" width=\"`&quot;100%`&quot;\"><tbody><tr><td style=\"background:#bba555; padding:5.25pt 5.5pt 5.25pt 1.5pt\"></td><td width=\"`&quot;100%`&quot;\" cellpadding=\"`&quot;7px\" color=\"`&quot;#212121`&quot;\" style=\"width:100.0%; background:#ffe599; padding:5.25pt \n3.75pt 5.25pt 11.25pt; word-wrap:break-word\"><div><p><span style=\"font-size:11pt; font-family:Arial,sans-serif; color:#212121\"><b>CAUTION:</b> This email was sent from outside of BISTEC Global. Please do not click links or open attachments unless you recognize the sender. </span></p></div></td></tr></tbody></table><div><table align=\"center\" class=\"container-sm width-full\" width=\"100%\" style=\"box-sizing:border-box; border-spacing:0; border-collapse:collapse; max-width:544px; margin-right:auto; margin-left:auto; width:100%!important\"><tbody><tr style=\"box-sizing:border-box\"><td class=\"center p-3\" align=\"center\" valign=\"top\" style=\"box-sizing:border-box; padding:16px\"><center style=\"box-sizing:border-box\"><table border=\"0\" cellspacing=\"0\" cellpadding=\"0\" align=\"center\" class=\"width-full container-md\" width=\"100%\" style=\"box-sizing:border-box; border-spacing:0; border-collapse:collapse; max-width:768px; margin-right:auto; margin-left:auto; width:100%!important\"><tbody><tr style=\"box-sizing:border-box\"><td align=\"center\" style=\"box-sizing:border-box; padding:0\"><table style=\"box-sizing:border-box; border-spacing:0; border-collapse:collapse\"><tbody style=\"box-sizing:border-box\"><tr style=\"box-sizing:border-box\"><td height=\"16\" style=\"font-size:16px; line-height:16px; box-sizing:border-box; padding:0\">&nbsp;</td></tr></tbody></table><table border=\"0\" cellspacing=\"0\" cellpadding=\"0\" align=\"left\" width=\"100%\" style=\"box-sizing:border-box; border-spacing:0; border-collapse:collapse\"><tbody><tr style=\"box-sizing:border-box\"><td class=\"text-center\" align=\"center\" style=\"box-sizing:border-box; text-align:center!important; padding:0\"><img src=\"https://github.githubassets.com/assets/octocat-logo-805b5c3e249f.png\" alt=\"GitHub\" width=\"32\" style=\"box-sizing:border-box; border-style:none\"> <h2 class=\"lh-condensed mt-2 text-normal\" style=\"box-sizing:border-box; margin-top:8px!important; margin-bottom:0; font-size:24px; font-weight:400!important; line-height:1.25!important\">Welcome to GitHub, <strong style=\"font-weight:600; box-sizing:border-box\">@deepakumarbistecg</strong>! </h2></td></tr></tbody></table><table style=\"box-sizing:border-box; border-spacing:0; border-collapse:collapse\"><tbody style=\"box-sizing:border-box\"><tr style=\"box-sizing:border-box\"><td height=\"16\" style=\"font-size:16px; line-height:16px; box-sizing:border-box; padding:0\">&nbsp;</td></tr></tbody></table></td></tr></tbody></table><table width=\"100%\" class=\"width-full\" style=\"box-sizing:border-box; border-spacing:0; border-collapse:collapse; width:100%!important\"><tbody><tr style=\"box-sizing:border-box\"><td class=\"border rounded-2 d-block\" style=\"box-sizing:border-box; border-radius:6px!important; display:block!important; padding:0; border:1px solid #e1e4e8\"><table align=\"center\" class=\"width-full text-center\" style=\"box-sizing:border-box; border-spacing:0; border-collapse:collapse; width:100%!important; text-align:center!important\"><tbody><tr style=\"box-sizing:border-box\"><td class=\"p-3 p-sm-4\" style=\"box-sizing:border-box; padding:24px\"><table border=\"0\" cellspacing=\"0\" cellpadding=\"0\" align=\"center\" class=\"width-full\" width=\"100%\" style=\"box-sizing:border-box; border-spacing:0; border-collapse:collapse; width:100%!important\"><tbody><tr style=\"box-sizing:border-box\"><td align=\"center\" style=\"box-sizing:border-box; padding:0\"><img src=\"https://github.githubassets.com/images/email/icons/admin-mentoring.png\" width=\"56\" height=\"56\" alt=\"\" style=\"box-sizing:border-box; border-style:none\"> <table style=\"box-sizing:border-box; border-spacing:0; border-collapse:collapse\"><tbody style=\"box-sizing:border-box\"><tr style=\"box-sizing:border-box\"><td height=\"12\" style=\"font-size:12px; line-height:12px; box-sizing:border-box; padding:0\">&nbsp;</td></tr></tbody></table><h3 class=\"lh-condensed\" style=\"box-sizing:border-box; margin-top:0; margin-bottom:0; font-size:20px; font-weight:600; line-height:1.25!important\">Welcome to GitHub</h3><table style=\"box-sizing:border-box; border-spacing:0; border-collapse:collapse\"><tbody style=\"box-sizing:border-box\"><tr style=\"box-sizing:border-box\"><td height=\"16\" style=\"font-size:16px; line-height:16px; box-sizing:border-box; padding:0\">&nbsp;</td></tr></tbody></table><table border=\"0\" cellspacing=\"0\" cellpadding=\"0\" align=\"center\" class=\"width-full\" width=\"100%\" style=\"box-sizing:border-box; border-spacing:0; border-collapse:collapse; width:100%!important\"><tbody><tr style=\"box-sizing:border-box\"><td align=\"center\" style=\"box-sizing:border-box; padding:0\"><p style=\"box-sizing:border-box; margin-top:0; margin-bottom:10px\">You\u2019re the newest member in this community of over 100 million people who use GitHub to host and review code, manage projects, and build software.</p><p style=\"box-sizing:border-box; margin-top:0; margin-bottom:10px\"></p><hr style=\"box-sizing:content-box; height:0; overflow:hidden; background-color:transparent; border-bottom-color:#dfe2e5; border-bottom-style:solid; margin:15px 0; border-width:0 0 1px\"></td></tr></tbody></table><table style=\"box-sizing:border-box; border-spacing:0; border-collapse:collapse\"><tbody style=\"box-sizing:border-box\"><tr style=\"box-sizing:border-box\"><td height=\"16\" style=\"font-size:16px; line-height:16px; box-sizing:border-box; padding:0\">&nbsp;</td></tr></tbody></table><table class=\"width-full\" style=\"box-sizing:border-box; border-spacing:0; border-collapse:collapse; width:100%!important\"><tbody style=\"box-sizing:border-box\"><tr style=\"box-sizing:border-box\"><td style=\"box-sizing:border-box; padding:0\"><table style=\"box-sizing:border-box; border-spacing:0; border-collapse:collapse\"><tbody><tr style=\"box-sizing:border-box\"><td class=\"text-left\" align=\"left\" style=\"box-sizing:border-box; text-align:left!important; padding:0\"><h4 style=\"box-sizing:border-box; margin-top:0; margin-bottom:0; font-size:16px; font-weight:600\">Get started</h4></td><td style=\"box-sizing:border-box; padding:0\"></td></tr></tbody></table></td></tr></tbody></table><table style=\"box-sizing:border-box; border-spacing:0; border-collapse:collapse\"><tbody style=\"box-sizing:border-box\"><tr style=\"box-sizing:border-box\"><td height=\"16\" style=\"font-size:16px; line-height:16px; box-sizing:border-box; padding:0\">&nbsp;</td></tr></tbody></table><table class=\"width-full\" style=\"box-sizing:border-box; border-spacing:0; border-collapse:collapse; width:100%!important\"><tbody style=\"box-sizing:border-box\"><tr style=\"box-sizing:border-box\"><td class=\"v-align-top pr-4\" valign=\"top\" style=\"width:56px; box-sizing:border-box; vertical-align:top!important; padding:0 24px 0 0\"><img alt=\"\" src=\"https://github.githubassets.com/assets/complete-your-profile-d9670298d042.png\" width=\"56\" height=\"56\" style=\"box-sizing:border-box; border-style:none\"> </td><td class=\"width-full\" style=\"box-sizing:border-box; width:100%!important; padding:0\"><table align=\"center\" class=\"border-bottom width-full text-center\" style=\"box-sizing:border-box; border-spacing:0; border-collapse:collapse; border-bottom-width:1px!important; border-bottom-color:#e1e4e8!important; border-bottom-style:solid!important; width:100%!important; text-align:center!important\"><tbody><tr style=\"box-sizing:border-box\"><td class=\"d-block f4 pb-2\" style=\"box-sizing:border-box; font-size:16px!important; display:block!important; padding:0 0 8px\"><table border=\"0\" cellspacing=\"0\" cellpadding=\"0\" align=\"center\" class=\"width-full\" width=\"100%\" style=\"box-sizing:border-box; border-spacing:0; border-collapse:collapse; width:100%!important\"><tbody><tr style=\"box-sizing:border-box\"><td align=\"center\" style=\"box-sizing:border-box; padding:0\"><table class=\"width-full\" style=\"box-sizing:border-box; border-spacing:0; border-collapse:collapse; width:100%!important\"><tbody style=\"box-sizing:border-box\"><tr style=\"box-sizing:border-box\"><td style=\"box-sizing:border-box; padding:0\"><table style=\"box-sizing:border-box; border-spacing:0; border-collapse:collapse\"><tbody><tr style=\"box-sizing:border-box\"><td class=\"text-left\" align=\"left\" style=\"box-sizing:border-box; text-align:left!important; padding:0\"><a href=\"https://github.com/deepakumarbistecg?email_source=welcome\" style=\"background-color:transparent; box-sizing:border-box; color:#0366d6; text-decoration:none\">Complete your profile </a></td><td style=\"box-sizing:border-box; padding:0\"></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table><table align=\"center\" class=\"border-bottom width-full text-center\" style=\"box-sizing:border-box; border-spacing:0; border-collapse:collapse; border-bottom-width:1px!important; border-bottom-color:#e1e4e8!important; border-bottom-style:solid!important; width:100%!important; text-align:center!important\"><tbody><tr style=\"box-sizing:border-box\"><td class=\"d-block f4 py-2\" style=\"box-sizing:border-box; font-size:16px!important; display:block!important; padding:8px 0\"><table border=\"0\" cellspacing=\"0\" cellpadding=\"0\" align=\"center\" class=\"width-full\" width=\"100%\" style=\"box-sizing:border-box; border-spacing:0; border-collapse:collapse; width:100%!important\"><tbody><tr style=\"box-sizing:border-box\"><td align=\"center\" style=\"box-sizing:border-box; padding:0\"><table class=\"width-full\" style=\"box-sizing:border-box; border-spacing:0; border-collapse:collapse; width:100%!important\"><tbody style=\"box-sizing:border-box\"><tr style=\"box-sizing:border-box\"><td style=\"box-sizing:border-box; padding:0\"><table style=\"box-sizing:border-box; border-spacing:0; border-collapse:collapse\"><tbody><tr style=\"box-sizing:border-box\"><td class=\"text-left\" align=\"left\" style=\"box-sizing:border-box; text-align:left!important; padding:0\"><a href=\"https://docs.github.com/articles/set-up-git?email_source=welcome\" style=\"background-color:transparent; box-sizing:border-box; color:#0366d6; text-decoration:none\">Set up your computer for GitHub </a></td><td style=\"box-sizing:border-box; padding:0\"></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table><table align=\"center\" class=\"width-full text-center\" style=\"box-sizing:border-box; border-spacing:0; border-collapse:collapse; width:100%!important; text-align:center!important\"><tbody><tr style=\"box-sizing:border-box\"><td class=\"d-block f4 py-2\" style=\"box-sizing:border-box; font-size:16px!important; display:block!important; padding:8px 0\"><table border=\"0\" cellspacing=\"0\" cellpadding=\"0\" align=\"center\" class=\"width-full\" width=\"100%\" style=\"box-sizing:border-box; border-spacing:0; border-collapse:collapse; width:100%!important\"><tbody><tr style=\"box-sizing:border-box\"><td align=\"center\" style=\"box-sizing:border-box; padding:0\"><table class=\"width-full\" style=\"box-sizing:border-box; border-spacing:0; border-collapse:collapse; width:100%!important\"><tbody style=\"box-sizing:border-box\"><tr style=\"box-sizing:border-box\"><td style=\"box-sizing:border-box; padding:0\"><table style=\"box-sizing:border-box; border-spacing:0; border-collapse:collapse\"><tbody><tr style=\"box-sizing:border-box\"><td class=\"text-left\" align=\"left\" style=\"box-sizing:border-box; text-align:left!important; padding:0\"><a href=\"https://docs.github.com?email_source=welcome\" style=\"background-color:transparent; box-sizing:border-box; color:#0366d6; text-decoration:none\">Learn more about using GitHub </a></td><td style=\"box-sizing:border-box; padding:0\"></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table><table style=\"box-sizing:border-box; border-spacing:0; border-collapse:collapse\"><tbody style=\"box-sizing:border-box\"><tr style=\"box-sizing:border-box\"><td height=\"16\" style=\"font-size:16px; line-height:16px; box-sizing:border-box; padding:0\">&nbsp;</td></tr></tbody></table><table class=\"width-full\" style=\"box-sizing:border-box; border-spacing:0; border-collapse:collapse; width:100%!important\"><tbody style=\"box-sizing:border-box\"><tr style=\"box-sizing:border-box\"><td style=\"box-sizing:border-box; padding:0\"><table style=\"box-sizing:border-box; border-spacing:0; border-collapse:collapse\"><tbody><tr style=\"box-sizing:border-box\"><td class=\"text-left\" align=\"left\" style=\"box-sizing:border-box; text-align:left!important; padding:0\"><h4 style=\"box-sizing:border-box; margin-top:0; margin-bottom:0; font-size:16px; font-weight:600\">Ready to work on projects?</h4></td><td style=\"box-sizing:border-box; padding:0\"></td></tr></tbody></table></td></tr></tbody></table><table style=\"box-sizing:border-box; border-spacing:0; border-collapse:collapse\"><tbody style=\"box-sizing:border-box\"><tr style=\"box-sizing:border-box\"><td height=\"16\" style=\"font-size:16px; line-height:16px; box-sizing:border-box; padding:0\">&nbsp;</td></tr></tbody></table><table class=\"width-full\" style=\"box-sizing:border-box; border-spacing:0; border-collapse:collapse; width:100%!important\"><tbody style=\"box-sizing:border-box\"><tr style=\"box-sizing:border-box\"><td class=\"v-align-top pr-4\" valign=\"top\" style=\"width:56px; box-sizing:border-box; vertical-align:top!important; padding:0 24px 0 0\"><img alt=\"\" src=\"https://github.githubassets.com/assets/code-hosting-efc51c805681.png\" width=\"56\" height=\"56\" style=\"box-sizing:border-box; border-style:none\"> </td><td class=\"width-full\" style=\"box-sizing:border-box; width:100%!important; padding:0\"><table align=\"center\" class=\"border-bottom width-full text-center\" style=\"box-sizing:border-box; border-spacing:0; border-collapse:collapse; border-bottom-width:1px!important; border-bottom-color:#e1e4e8!important; border-bottom-style:solid!important; width:100%!important; text-align:center!important\"><tbody><tr style=\"box-sizing:border-box\"><td class=\"d-block f4 pb-2\" style=\"box-sizing:border-box; font-size:16px!important; display:block!important; padding:0 0 8px\"><table border=\"0\" cellspacing=\"0\" cellpadding=\"0\" align=\"center\" class=\"width-full\" width=\"100%\" style=\"box-sizing:border-box; border-spacing:0; border-collapse:collapse; width:100%!important\"><tbody><tr style=\"box-sizing:border-box\"><td align=\"center\" style=\"box-sizing:border-box; padding:0\"><table class=\"width-full\" style=\"box-sizing:border-box; border-spacing:0; border-collapse:collapse; width:100%!important\"><tbody style=\"box-sizing:border-box\"><tr style=\"box-sizing:border-box\"><td style=\"box-sizing:border-box; padding:0\"><table style=\"box-sizing:border-box; border-spacing:0; border-collapse:collapse\"><tbody><tr style=\"box-sizing:border-box\"><td class=\"text-left\" align=\"left\" style=\"box-sizing:border-box; text-align:left!important; padding:0\"><a href=\"https://github.com/new?email_source=welcome\" style=\"background-color:transparent; box-sizing:border-box; color:#0366d6; text-decoration:none\">Create a new repository </a></td><td style=\"box-sizing:border-box; padding:0\"></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table><table align=\"center\" class=\"border-bottom width-full text-center\" style=\"box-sizing:border-box; border-spacing:0; border-collapse:collapse; border-bottom-width:1px!important; border-bottom-color:#e1e4e8!important; border-bottom-style:solid!important; width:100%!important; text-align:center!important\"><tbody><tr style=\"box-sizing:border-box\"><td class=\"d-block f4 py-2\" style=\"box-sizing:border-box; font-size:16px!important; display:block!important; padding:8px 0\"><table border=\"0\" cellspacing=\"0\" cellpadding=\"0\" align=\"center\" class=\"width-full\" width=\"100%\" style=\"box-sizing:border-box; border-spacing:0; border-collapse:collapse; width:100%!important\"><tbody><tr style=\"box-sizing:border-box\"><td align=\"center\" style=\"box-sizing:border-box; padding:0\"><table class=\"width-full\" style=\"box-sizing:border-box; border-spacing:0; border-collapse:collapse; width:100%!important\"><tbody style=\"box-sizing:border-box\"><tr style=\"box-sizing:border-box\"><td style=\"box-sizing:border-box; padding:0\"><table style=\"box-sizing:border-box; border-spacing:0; border-collapse:collapse\"><tbody><tr style=\"box-sizing:border-box\"><td class=\"text-left\" align=\"left\" style=\"box-sizing:border-box; text-align:left!important; padding:0\"><a href=\"https://github.com/new/import?email_source=welcome\" style=\"background-color:transparent; box-sizing:border-box; color:#0366d6; text-decoration:none\">Import an existing repository </a></td><td style=\"box-sizing:border-box; padding:0\"></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table><table align=\"center\" class=\"width-full text-center\" style=\"box-sizing:border-box; border-spacing:0; border-collapse:collapse; width:100%!important; text-align:center!important\"><tbody><tr style=\"box-sizing:border-box\"><td class=\"d-block f4 py-2\" style=\"box-sizing:border-box; font-size:16px!important; display:block!important; padding:8px 0\"><table border=\"0\" cellspacing=\"0\" cellpadding=\"0\" align=\"center\" class=\"width-full\" width=\"100%\" style=\"box-sizing:border-box; border-spacing:0; border-collapse:collapse; width:100%!important\"><tbody><tr style=\"box-sizing:border-box\"><td align=\"center\" style=\"box-sizing:border-box; padding:0\"><table class=\"width-full\" style=\"box-sizing:border-box; border-spacing:0; border-collapse:collapse; width:100%!important\"><tbody style=\"box-sizing:border-box\"><tr style=\"box-sizing:border-box\"><td style=\"box-sizing:border-box; padding:0\"><table style=\"box-sizing:border-box; border-spacing:0; border-collapse:collapse\"><tbody><tr style=\"box-sizing:border-box\"><td class=\"text-left\" align=\"left\" style=\"box-sizing:border-box; text-align:left!important; padding:0\"><a href=\"https://github.com/explore?email_source=welcome\" style=\"background-color:transparent; box-sizing:border-box; color:#0366d6; text-decoration:none\">Explore open source projects </a></td><td style=\"box-sizing:border-box; padding:0\"></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table><table border=\"0\" cellspacing=\"0\" cellpadding=\"0\" align=\"center\" class=\"width-full text-center\" width=\"100%\" style=\"box-sizing:border-box; border-spacing:0; border-collapse:collapse; width:100%!important; text-align:center!important\"><tbody><tr style=\"box-sizing:border-box\"><td align=\"center\" style=\"box-sizing:border-box; padding:0\"><table style=\"box-sizing:border-box; border-spacing:0; border-collapse:collapse\"><tbody style=\"box-sizing:border-box\"><tr style=\"box-sizing:border-box\"><td height=\"16\" style=\"font-size:16px; line-height:16px; box-sizing:border-box; padding:0\">&nbsp;</td></tr></tbody></table><p class=\"f6\" style=\"box-sizing:border-box; margin-top:0; margin-bottom:10px; font-size:12px!important\"><a href=\"https://github.com/settings/emails\" class=\"d-inline-block\" style=\"background-color:transparent; box-sizing:border-box; color:#0366d6; text-decoration:none; display:inline-block!important\">Manage your GitHub email preferences</a> \u30fb <a href=\"https://docs.github.com/articles/github-terms-of-service/\" class=\"d-inline-block\" style=\"background-color:transparent; box-sizing:border-box; color:#0366d6; text-decoration:none; display:inline-block!important\">Terms</a> \u30fb <a href=\"https://docs.github.com/articles/github-privacy-policy/\" class=\"d-inline-block\" style=\"background-color:transparent; box-sizing:border-box; color:#0366d6; text-decoration:none; display:inline-block!important\">Privacy</a> \u30fb <a href=\"https://github.com/login\" class=\"d-inline-block\" style=\"background-color:transparent; box-sizing:border-box; color:#0366d6; text-decoration:none; display:inline-block!important\">Sign in to GitHub</a> </p><table style=\"box-sizing:border-box; border-spacing:0; border-collapse:collapse\"><tbody style=\"box-sizing:border-box\"><tr style=\"box-sizing:border-box\"><td height=\"16\" style=\"font-size:16px; line-height:16px; box-sizing:border-box; padding:0\">&nbsp;</td></tr></tbody></table><p class=\"f5 text-gray-light\" style=\"box-sizing:border-box; margin-top:0; margin-bottom:10px; color:#6a737d!important; font-size:14px!important\">You\u2019re receiving this email because you recently created a new GitHub account. If this wasn\u2019t you, please ignore this email. </p></td></tr></tbody></table><table border=\"0\" cellspacing=\"0\" cellpadding=\"0\" align=\"center\" class=\"width-full text-center\" width=\"100%\" style=\"box-sizing:border-box; border-spacing:0; border-collapse:collapse; width:100%!important; text-align:center!important\"><tbody><tr style=\"box-sizing:border-box\"><td align=\"center\" style=\"box-sizing:border-box; padding:0\"><table style=\"box-sizing:border-box; border-spacing:0; border-collapse:collapse\"><tbody style=\"box-sizing:border-box\"><tr style=\"box-sizing:border-box\"><td height=\"16\" style=\"font-size:16px; line-height:16px; box-sizing:border-box; padding:0\">&nbsp;</td></tr></tbody></table><p class=\"f6 text-gray-light\" style=\"box-sizing:border-box; margin-top:0; margin-bottom:10px; color:#6a737d!important; font-size:12px!important\">GitHub, Inc. \u30fb88 Colin P Kelly Jr Street \u30fbSan Francisco, CA 94107</p></td></tr></tbody></table></center></td></tr></tbody></table><div style=\"display:none; white-space:nowrap; box-sizing:border-box; font:15px/0 apple-system,BlinkMacSystemFont,&quot;Segoe UI&quot;,Helvetica,Arial,sans-serif,&quot;Apple Color Emoji&quot;,&quot;Segoe UI Emoji&quot;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </div></div></body></html>"
+            },
+            "sender": {
+                "emailAddress": {
+                    "name": "GitHub",
+                    "address": "noreply@github.com"
+                }
+            },
+            "from": {
+                "emailAddress": {
+                    "name": "GitHub",
+                    "address": "noreply@github.com"
+                }
+            },
+            "toRecipients": [
+                {
+                    "emailAddress": {
+                        "name": "Deepakumar Ganeshamany | BISTEC Global",
+                        "address": "Deepakumar@bistecglobal.com"
+                    }
+                }
+            ],
+            "ccRecipients": [],
+            "bccRecipients": [],
+            "replyTo": [],
+            "flag": {
+                "flagStatus": "notFlagged"
+            }
+        },
+        {
+            "@odata.etag": "W/\"CQAAABYAAACtRUmtfGQbT6tMtwJ/4/5AAAOWjnN5\"",
+            "id": "AAMkAGU4NjEzODBlLWE4NzctNDFjOS05MTc0LWI5MGUxNzVhMTAxYQBGAAAAAAAgpKUZpyVmS5noesVIpF8ABwCtRUmtfGQbT6tMtwJ-4-5AAAAAAAEMAACtRUmtfGQbT6tMtwJ-4-5AAAOY8cAzAAA=",
+            "createdDateTime": "2023-10-23T06:58:52Z",
+            "lastModifiedDateTime": "2023-10-23T07:04:11Z",
+            "changeKey": "CQAAABYAAACtRUmtfGQbT6tMtwJ/4/5AAAOWjnN5",
+            "categories": [],
+            "receivedDateTime": "2023-10-23T06:58:52Z",
+            "sentDateTime": "2023-10-23T06:58:45Z",
+            "hasAttachments": false,
+            "internetMessageId": "<653619a5da92_3403dfda9856224@github-highworker-cfbd4c3.va3-iad.github.net.mail>",
+            "subject": "\ud83d\ude80 Your GitHub launch code",
+            "bodyPreview": "CAUTION: This email was sent from outside of BISTEC Global. Please do not click links or open attachments unless you recognize the sender.\r\n\r\n\r\n\r\nHere's your GitHub launch code, @deepakumarbistecg!\r\n\r\n\r\n\r\nContinue signing up for GitHub by entering the cod",
+            "importance": "normal",
+            "parentFolderId": "AQMkAGU4NjEzODBlLWE4NzcALTQxYzktOTE3NC1iOTBlMTc1YTEwMWEALgAAAyCkpRmnJWZLmeh6xUikXwABAK1FSa18ZBtPq0y3An-j-kAAAAIBDAAAAA==",
+            "conversationId": "AAQkAGU4NjEzODBlLWE4NzctNDFjOS05MTc0LWI5MGUxNzVhMTAxYQAQAKp_2oTl8r1JhsdWCOZh5ek=",
+            "conversationIndex": "AQHaBX5hqn7ahOXyvUmGx1YI5mHl6Q==",
+            "isDeliveryReceiptRequested": null,
+            "isReadReceiptRequested": false,
+            "isRead": true,
+            "isDraft": false,
+            "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkAGU4NjEzODBlLWE4NzctNDFjOS05MTc0LWI5MGUxNzVhMTAxYQBGAAAAAAAgpKUZpyVmS5noesVIpF8ABwCtRUmtfGQbT6tMtwJ%2F4%2F5AAAAAAAEMAACtRUmtfGQbT6tMtwJ%2F4%2F5AAAOY8cAzAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+            "inferenceClassification": "focused",
+            "body": {
+                "contentType": "html",
+                "content": "<html lang=\"en\" style=\"font-family:sans-serif; box-sizing:border-box\"><head>\r\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\"><meta name=\"viewport\" content=\"width=device-width\"></head><body bgcolor=\"#fff\" style=\"box-sizing:border-box; font-size:14px; line-height:1.5; color:#24292e; background-color:#fff; margin:0\"><table border=\"0\" cellspacing=\"0\" cellpadding=\"0\" align=\"left\" width=\"`&quot;100%`&quot;\"><tbody><tr><td style=\"background:#bba555; padding:5.25pt 5.5pt 5.25pt 1.5pt\"></td><td width=\"`&quot;100%`&quot;\" cellpadding=\"`&quot;7px\" color=\"`&quot;#212121`&quot;\" style=\"width:100.0%; background:#ffe599; padding:5.25pt \n3.75pt 5.25pt 11.25pt; word-wrap:break-word\"><div><p><span style=\"font-size:11pt; font-family:Arial,sans-serif; color:#212121\"><b>CAUTION:</b> This email was sent from outside of BISTEC Global. Please do not click links or open attachments unless you recognize the sender. </span></p></div></td></tr></tbody></table><div><table align=\"center\" class=\"container-sm width-full\" width=\"100%\" style=\"box-sizing:border-box; border-spacing:0; border-collapse:collapse; max-width:544px; margin-right:auto; margin-left:auto; width:100%!important\"><tbody><tr style=\"box-sizing:border-box\"><td class=\"center p-3\" align=\"center\" valign=\"top\" style=\"box-sizing:border-box; padding:16px\"><center style=\"box-sizing:border-box\"><table border=\"0\" cellspacing=\"0\" cellpadding=\"0\" align=\"center\" class=\"width-full container-md\" width=\"100%\" style=\"box-sizing:border-box; border-spacing:0; border-collapse:collapse; max-width:768px; margin-right:auto; margin-left:auto; width:100%!important\"><tbody><tr style=\"box-sizing:border-box\"><td align=\"center\" style=\"box-sizing:border-box; padding:0\"><table style=\"box-sizing:border-box; border-spacing:0; border-collapse:collapse\"><tbody style=\"box-sizing:border-box\"><tr style=\"box-sizing:border-box\"><td height=\"16\" style=\"font-size:16px; line-height:16px; box-sizing:border-box; padding:0\">&nbsp;</td></tr></tbody></table><table border=\"0\" cellspacing=\"0\" cellpadding=\"0\" align=\"left\" width=\"100%\" style=\"box-sizing:border-box; border-spacing:0; border-collapse:collapse\"><tbody><tr style=\"box-sizing:border-box\"><td class=\"text-center\" align=\"center\" style=\"box-sizing:border-box; text-align:center!important; padding:0\"><img src=\"https://github.githubassets.com/assets/octocat-logo-805b5c3e249f.png\" alt=\"GitHub\" width=\"32\" style=\"box-sizing:border-box; border-style:none\"> <h2 class=\"lh-condensed mt-2 text-normal\" style=\"box-sizing:border-box; margin-top:8px!important; margin-bottom:0; font-size:24px; font-weight:400!important; line-height:1.25!important\">Here's your GitHub launch code, @deepakumarbistecg! </h2></td></tr></tbody></table><table style=\"box-sizing:border-box; border-spacing:0; border-collapse:collapse\"><tbody style=\"box-sizing:border-box\"><tr style=\"box-sizing:border-box\"><td height=\"16\" style=\"font-size:16px; line-height:16px; box-sizing:border-box; padding:0\">&nbsp;</td></tr></tbody></table></td></tr></tbody></table><table width=\"100%\" class=\"width-full\" style=\"box-sizing:border-box; border-spacing:0; border-collapse:collapse; width:100%!important\"><tbody><tr style=\"box-sizing:border-box\"><td class=\"border rounded-2 d-block\" style=\"box-sizing:border-box; border-radius:6px!important; display:block!important; padding:0; border:1px solid #e1e4e8\"><table align=\"center\" class=\"width-full text-center\" style=\"box-sizing:border-box; border-spacing:0; border-collapse:collapse; width:100%!important; text-align:center!important\"><tbody><tr style=\"box-sizing:border-box\"><td class=\"p-3 p-sm-4\" style=\"box-sizing:border-box; padding:24px\"><table border=\"0\" cellspacing=\"0\" cellpadding=\"0\" align=\"center\" class=\"width-full\" width=\"100%\" style=\"box-sizing:border-box; border-spacing:0; border-collapse:collapse; width:100%!important\"><tbody><tr style=\"box-sizing:border-box\"><td align=\"center\" style=\"box-sizing:border-box; padding:0\"><img src=\"https://github.githubassets.com/assets/mona-launch-rocket-244c5b8c577b.png\" alt=\"an octocat standing next to a rocket\" width=\"110\" style=\"box-sizing:border-box; border-style:none\"> <table style=\"box-sizing:border-box; border-spacing:0; border-collapse:collapse\"><tbody style=\"box-sizing:border-box\"><tr style=\"box-sizing:border-box\"><td height=\"16\" style=\"font-size:16px; line-height:16px; box-sizing:border-box; padding:0\">&nbsp;</td></tr></tbody></table><span class=\"text-mono f4\" style=\"box-sizing:border-box; font-size:16px!important; font-family:&quot;SFMono-Regular&quot;,Consolas,&quot;Liberation Mono&quot;,Menlo,monospace!important\">Continue signing up for GitHub by entering the code below: </span><table style=\"box-sizing:border-box; border-spacing:0; border-collapse:collapse\"><tbody style=\"box-sizing:border-box\"><tr style=\"box-sizing:border-box\"><td height=\"16\" style=\"font-size:16px; line-height:16px; box-sizing:border-box; padding:0\">&nbsp;</td></tr></tbody></table><span class=\"branch-name f00-light text-gray-dark text-mono\" style=\"box-sizing:border-box; color:#24292e!important; display:inline-block; background-color:#eaf5ff; border-radius:6px; padding:2px 6px; font:300 48px &quot;SFMono-Regular&quot;,Consolas,&quot;Liberation Mono&quot;,Menlo,monospace\">57955614</span> <table style=\"box-sizing:border-box; border-spacing:0; border-collapse:collapse\"><tbody style=\"box-sizing:border-box\"><tr style=\"box-sizing:border-box\"><td height=\"16\" style=\"font-size:16px; line-height:16px; box-sizing:border-box; padding:0\">&nbsp;</td></tr></tbody></table><table width=\"100%\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\" style=\"box-sizing:border-box; border-spacing:0; border-collapse:collapse\"><tbody><tr style=\"box-sizing:border-box\"><td style=\"box-sizing:border-box; padding:0\"><table border=\"0\" cellspacing=\"0\" cellpadding=\"0\" width=\"100%\" style=\"box-sizing:border-box; border-spacing:0; border-collapse:collapse\"><tbody><tr style=\"box-sizing:border-box\"><td align=\"center\" style=\"box-sizing:border-box; padding:0\"><a href=\"https://github.com/account_verifications?via_launch_code_email=true\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"btn btn-primary btn-large\" style=\"background-color:#1f883d!important; box-sizing:border-box; color:#fff; text-decoration:none; display:inline-block; font-size:inherit; font-weight:500; line-height:1.5; white-space:nowrap; vertical-align:middle; border-radius:.5em; box-shadow:0 1px 0 rgba(27,31,35,.1),inset 0 1px 0 rgba(255,255,255,.03); padding:.75em 1.5em; border:1px solid #1f883d\">Open GitHub</a> </td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table><table border=\"0\" cellspacing=\"0\" cellpadding=\"0\" align=\"center\" class=\"width-full f5 text-gray-light\" width=\"100%\" style=\"box-sizing:border-box; border-spacing:0; border-collapse:collapse; color:#6a737d!important; width:100%!important; font-size:14px!important\"><tbody><tr style=\"box-sizing:border-box\"><td align=\"center\" style=\"box-sizing:border-box; padding:0\"><table style=\"box-sizing:border-box; border-spacing:0; border-collapse:collapse\"><tbody style=\"box-sizing:border-box\"><tr style=\"box-sizing:border-box\"><td height=\"16\" style=\"font-size:16px; line-height:16px; box-sizing:border-box; padding:0\">&nbsp;</td></tr></tbody></table><table class=\"width-full\" style=\"box-sizing:border-box; border-spacing:0; border-collapse:collapse; width:100%!important\"><tbody style=\"box-sizing:border-box\"><tr style=\"box-sizing:border-box\"><td style=\"box-sizing:border-box; padding:0\"><table style=\"box-sizing:border-box; border-spacing:0; border-collapse:collapse\"><tbody><tr style=\"box-sizing:border-box\"><td class=\"text-left\" align=\"left\" style=\"box-sizing:border-box; text-align:left!important; padding:0\">Once completed, you can start using all of GitHub's features to explore, build, and share projects. <table style=\"box-sizing:border-box; border-spacing:0; border-collapse:collapse\"><tbody style=\"box-sizing:border-box\"><tr style=\"box-sizing:border-box\"><td height=\"16\" style=\"font-size:16px; line-height:16px; box-sizing:border-box; padding:0\">&nbsp;</td></tr></tbody></table>Not able to enter the code? Paste the following link into your browser: <br style=\"box-sizing:border-box\"><a href=\"https://github.com/users/deepakumarbistecg/emails/285709510/confirm_verification/57955614?via_launch_code_email=true\" class=\"wb-break-all\" style=\"background-color:transparent; box-sizing:border-box; color:#0366d6; text-decoration:none; word-break:break-all!important\">https://github.com/users/deepakumarbistecg/emails/285709510/confirm_verification/57955614?via_launch_code_email=true</a> </td><td style=\"box-sizing:border-box; padding:0\"></td></tr></tbody></table></td></tr></tbody></table><hr style=\"box-sizing:content-box; height:0; overflow:hidden; background-color:transparent; border-bottom-color:#dfe2e5; border-bottom-style:solid; margin:15px 0; border-width:0 0 1px\"></td></tr></tbody></table><table border=\"0\" cellspacing=\"0\" cellpadding=\"0\" align=\"center\" class=\"width-full text-center\" width=\"100%\" style=\"box-sizing:border-box; border-spacing:0; border-collapse:collapse; width:100%!important; text-align:center!important\"><tbody><tr style=\"box-sizing:border-box\"><td align=\"center\" style=\"box-sizing:border-box; padding:0\"><table style=\"box-sizing:border-box; border-spacing:0; border-collapse:collapse\"><tbody style=\"box-sizing:border-box\"><tr style=\"box-sizing:border-box\"><td height=\"16\" style=\"font-size:16px; line-height:16px; box-sizing:border-box; padding:0\">&nbsp;</td></tr></tbody></table><p class=\"f6\" style=\"box-sizing:border-box; margin-top:0; margin-bottom:10px; font-size:12px!important\"><a href=\"https://github.com/settings/emails\" class=\"d-inline-block\" style=\"background-color:transparent; box-sizing:border-box; color:#0366d6; text-decoration:none; display:inline-block!important\">Email preferences</a> \u30fb <a href=\"https://docs.github.com/articles/github-terms-of-service/\" class=\"d-inline-block\" style=\"background-color:transparent; box-sizing:border-box; color:#0366d6; text-decoration:none; display:inline-block!important\">Terms</a> \u30fb <a href=\"https://docs.github.com/articles/github-privacy-policy/\" class=\"d-inline-block\" style=\"background-color:transparent; box-sizing:border-box; color:#0366d6; text-decoration:none; display:inline-block!important\">Privacy</a> \u30fb <a href=\"https://github.com/login\" class=\"d-inline-block\" style=\"background-color:transparent; box-sizing:border-box; color:#0366d6; text-decoration:none; display:inline-block!important\">Sign in to GitHub</a> </p><table style=\"box-sizing:border-box; border-spacing:0; border-collapse:collapse\"><tbody style=\"box-sizing:border-box\"><tr style=\"box-sizing:border-box\"><td height=\"16\" style=\"font-size:16px; line-height:16px; box-sizing:border-box; padding:0\">&nbsp;</td></tr></tbody></table><p class=\"f5 text-gray-light\" style=\"box-sizing:border-box; margin-top:0; margin-bottom:10px; color:#6a737d!important; font-size:14px!important\">You\u2019re receiving this email because you recently created a new GitHub account. If this wasn\u2019t you, please ignore this email. </p></td></tr></tbody></table><table border=\"0\" cellspacing=\"0\" cellpadding=\"0\" align=\"center\" class=\"width-full text-center\" width=\"100%\" style=\"box-sizing:border-box; border-spacing:0; border-collapse:collapse; width:100%!important; text-align:center!important\"><tbody><tr style=\"box-sizing:border-box\"><td align=\"center\" style=\"box-sizing:border-box; padding:0\"><table style=\"box-sizing:border-box; border-spacing:0; border-collapse:collapse\"><tbody style=\"box-sizing:border-box\"><tr style=\"box-sizing:border-box\"><td height=\"16\" style=\"font-size:16px; line-height:16px; box-sizing:border-box; padding:0\">&nbsp;</td></tr></tbody></table><p class=\"f6 text-gray-light\" style=\"box-sizing:border-box; margin-top:0; margin-bottom:10px; color:#6a737d!important; font-size:12px!important\">GitHub, Inc. \u30fb88 Colin P Kelly Jr Street \u30fbSan Francisco, CA 94107</p></td></tr></tbody></table></center></td></tr></tbody></table><div style=\"display:none; white-space:nowrap; box-sizing:border-box; font:15px/0 apple-system,BlinkMacSystemFont,&quot;Segoe UI&quot;,Helvetica,Arial,sans-serif,&quot;Apple Color Emoji&quot;,&quot;Segoe UI Emoji&quot;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </div></div></body></html>"
+            },
+            "sender": {
+                "emailAddress": {
+                    "name": "GitHub",
+                    "address": "noreply@github.com"
+                }
+            },
+            "from": {
+                "emailAddress": {
+                    "name": "GitHub",
+                    "address": "noreply@github.com"
+                }
+            },
+            "toRecipients": [
+                {
+                    "emailAddress": {
+                        "name": "Deepakumar Ganeshamany | BISTEC Global",
+                        "address": "Deepakumar@bistecglobal.com"
+                    }
+                }
+            ],
+            "ccRecipients": [],
+            "bccRecipients": [],
+            "replyTo": [],
+            "flag": {
+                "flagStatus": "notFlagged"
+            }
+        },
+        {
+            "@odata.type": "#microsoft.graph.eventMessageRequest",
+            "@odata.etag": "W/\"CwAAABYAAACtRUmtfGQbT6tMtwJ/4/5AAAOWjnJ3\"",
+            "id": "AAMkAGU4NjEzODBlLWE4NzctNDFjOS05MTc0LWI5MGUxNzVhMTAxYQBGAAAAAAAgpKUZpyVmS5noesVIpF8ABwCtRUmtfGQbT6tMtwJ-4-5AAAAAAAEMAACtRUmtfGQbT6tMtwJ-4-5AAAOY8cAyAAA=",
+            "createdDateTime": "2023-10-23T05:42:24Z",
+            "lastModifiedDateTime": "2023-10-23T06:29:18Z",
+            "changeKey": "CwAAABYAAACtRUmtfGQbT6tMtwJ/4/5AAAOWjnJ3",
+            "categories": [],
+            "receivedDateTime": "2023-10-23T05:42:25Z",
+            "sentDateTime": "2023-10-23T05:42:18Z",
+            "hasAttachments": false,
+            "internetMessageId": "<KL1PR0401MB55505A4F13FC06756458A36FB1D8A@KL1PR0401MB5550.apcprd04.prod.outlook.com>",
+            "subject": "AI Movement",
+            "bodyPreview": "________________________________________________________________________________\r\nMicrosoft Teams meeting\r\nJoin on your computer, mobile app or room device\r\nClick here to join the meeting\r\nMeeting ID: 479 783 288 111\r\nPasscode: pABoYc\r\nDownload Team",
+            "importance": "normal",
+            "parentFolderId": "AQMkAGU4NjEzODBlLWE4NzcALTQxYzktOTE3NC1iOTBlMTc1YTEwMWEALgAAAyCkpRmnJWZLmeh6xUikXwABAK1FSa18ZBtPq0y3An-j-kAAAAIBDAAAAA==",
+            "conversationId": "AAQkAGU4NjEzODBlLWE4NzctNDFjOS05MTc0LWI5MGUxNzVhMTAxYQAQAEanSIOZKudBq28g5RAvkqk=",
+            "conversationIndex": "AQHaBXOvRqdIg5kq50GrbyDlEC+SqQ==",
+            "isDeliveryReceiptRequested": null,
+            "isReadReceiptRequested": false,
+            "isRead": true,
+            "isDraft": false,
+            "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkAGU4NjEzODBlLWE4NzctNDFjOS05MTc0LWI5MGUxNzVhMTAxYQBGAAAAAAAgpKUZpyVmS5noesVIpF8ABwCtRUmtfGQbT6tMtwJ%2F4%2F5AAAAAAAEMAACtRUmtfGQbT6tMtwJ%2F4%2F5AAAOY8cAyAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+            "inferenceClassification": "focused",
+            "meetingMessageType": "meetingRequest",
+            "type": "seriesMaster",
+            "isOutOfDate": false,
+            "isAllDay": false,
+            "isDelegated": false,
+            "responseRequested": true,
+            "allowNewTimeProposals": null,
+            "meetingRequestType": "fullUpdate",
+            "body": {
+                "contentType": "html",
+                "content": "<html><head>\r\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\"></head><body><div><br><br><br><div style=\"width:100%\"><span style=\"white-space:nowrap; color:#5F5F5F; opacity:.36\">________________________________________________________________________________</span> </div><div class=\"me-email-text\" lang=\"en-GB\" style=\"color:#252424; font-family:'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif\"><div style=\"margin-top:24px; margin-bottom:20px\"><span style=\"font-size:24px; color:#252424\">Microsoft Teams meeting</span> </div><div style=\"margin-bottom:20px\"><div style=\"margin-top:0px; margin-bottom:0px; font-weight:bold\"><span style=\"font-size:14px; color:#252424\">Join on your computer, mobile app or room device</span> </div><a href=\"https://teams.microsoft.com/l/meetup-join/19%3ameeting_YmM4ZGY4NjctZWQyMy00NDgzLWFlNzYtZDBkMGQwZjQxNzZh%40thread.v2/0?context=%7b%22Tid%22%3a%22d5e769b0-fd19-45e4-a4a8-b73545450234%22%2c%22Oid%22%3a%220ea2c483-4322-4065-a7ed-b36ce699884f%22%7d\" class=\"me-email-headline\" style=\"font-size:14px; font-family:'Segoe UI Semibold','Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif; text-decoration:underline; color:#6264a7\">Click here to join the meeting</a> </div><div style=\"margin-bottom:20px; margin-top:20px\"><div style=\"margin-bottom:4px\"><span data-tid=\"meeting-code\" style=\"font-size:14px; color:#252424\">Meeting ID: <span style=\"font-size:16px; color:#252424\">479 783 288 111</span> </span><br><span style=\"font-size:14px; color:#252424\">Passcode: </span><span style=\"font-size:16px; color:#252424\">pABoYc </span><div style=\"font-size:14px\"><a href=\"https://www.microsoft.com/en-us/microsoft-teams/download-app\" class=\"me-email-link\" style=\"font-size:14px; text-decoration:underline; color:#6264a7; font-family:'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif\">Download Teams</a> | <a href=\"https://www.microsoft.com/microsoft-teams/join-a-meeting\" class=\"me-email-link\" style=\"font-size:14px; text-decoration:underline; color:#6264a7; font-family:'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif\">Join on the web</a></div></div></div><div style=\"margin-bottom:24px; margin-top:20px\"><a href=\"https://aka.ms/JoinTeamsMeeting\" class=\"me-email-link\" style=\"font-size:14px; text-decoration:underline; color:#6264a7; font-family:'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif\">Learn more</a> | <a href=\"https://teams.microsoft.com/meetingOptions/?organizerId=0ea2c483-4322-4065-a7ed-b36ce699884f&amp;tenantId=d5e769b0-fd19-45e4-a4a8-b73545450234&amp;threadId=19_meeting_YmM4ZGY4NjctZWQyMy00NDgzLWFlNzYtZDBkMGQwZjQxNzZh@thread.v2&amp;messageId=0&amp;language=en-GB\" class=\"me-email-link\" style=\"font-size:14px; text-decoration:underline; color:#6264a7; font-family:'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif\">Meeting options</a> </div></div><div style=\"font-size:14px; margin-bottom:4px; font-family:'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif\"></div><div style=\"font-size:12px\"></div></div><div style=\"width:100%\"><span style=\"white-space:nowrap; color:#5F5F5F; opacity:.36\">________________________________________________________________________________</span> </div><div></div></body></html>"
+            },
+            "sender": {
+                "emailAddress": {
+                    "name": "Chandima Ranaweera | BISTEC Global",
+                    "address": "chandima@bistecglobal.com"
+                }
+            },
+            "from": {
+                "emailAddress": {
+                    "name": "Chandima Ranaweera | BISTEC Global",
+                    "address": "chandima@bistecglobal.com"
+                }
+            },
+            "toRecipients": [
+                {
+                    "emailAddress": {
+                        "name": "Lanka Perera | BISTEC Global",
+                        "address": "lanka@bistecglobal.com"
+                    }
+                },
+                {
+                    "emailAddress": {
+                        "name": "Bhashitha Dhananjaya | BISTEC Global",
+                        "address": "bhashitha@bistecglobal.com"
+                    }
+                },
+                {
+                    "emailAddress": {
+                        "name": "Nipuni Wickramasinghe | BISTEC Global",
+                        "address": "Nipuni@bistecglobal.com"
+                    }
+                },
+                {
+                    "emailAddress": {
+                        "name": "Chamath Viduranga | BISTEC Global",
+                        "address": "chamath@bistecglobal.com"
+                    }
+                },
+                {
+                    "emailAddress": {
+                        "name": "Lahiru Jeewantha | BISTEC Global",
+                        "address": "lahiruj@bistecglobal.com"
+                    }
+                },
+                {
+                    "emailAddress": {
+                        "name": "Deepakumar Ganeshamany | BISTEC Global",
+                        "address": "Deepakumar@bistecglobal.com"
+                    }
+                },
+                {
+                    "emailAddress": {
+                        "name": "Buddhika Amarasinghe | BISTEC Global",
+                        "address": "buddhika@bistecglobal.com"
+                    }
+                }
+            ],
+            "ccRecipients": [
+                {
+                    "emailAddress": {
+                        "name": "Buddhima Wickramasinghe | BISTEC Global",
+                        "address": "buddhi@bistecglobal.com"
+                    }
+                },
+                {
+                    "emailAddress": {
+                        "name": "Anuradha Gajanayaka | BISTEC Global",
+                        "address": "anu@bistecglobal.com"
+                    }
+                }
+            ],
+            "bccRecipients": [],
+            "replyTo": [],
+            "flag": {
+                "flagStatus": "notFlagged"
+            },
+            "startDateTime": {
+                "dateTime": "2023-10-05T06:30:00.0000000",
+                "timeZone": "UTC"
+            },
+            "endDateTime": {
+                "dateTime": "2023-10-05T07:00:00.0000000",
+                "timeZone": "UTC"
+            },
+            "location": {
+                "displayName": "Microsoft Teams Meeting",
+                "locationType": "default",
+                "uniqueIdType": "unknown"
+            },
+            "recurrence": {
+                "pattern": {
+                    "type": "weekly",
+                    "interval": 1,
+                    "month": 0,
+                    "dayOfMonth": 0,
+                    "daysOfWeek": [
+                        "monday",
+                        "tuesday",
+                        "wednesday",
+                        "thursday",
+                        "friday"
+                    ],
+                    "firstDayOfWeek": "sunday",
+                    "index": "first"
+                },
+                "range": {
+                    "type": "endDate",
+                    "startDate": "2023-10-04",
+                    "endDate": "2023-10-26",
+                    "recurrenceTimeZone": "tzone://Microsoft/Utc",
+                    "numberOfOccurrences": 0
+                }
+            },
+            "previousLocation": {
+                "displayName": "Microsoft Teams Meeting",
+                "locationType": "default",
+                "uniqueIdType": "unknown"
+            },
+            "previousStartDateTime": {
+                "dateTime": "2023-10-05T06:30:00.0000000",
+                "timeZone": "UTC"
+            },
+            "previousEndDateTime": {
+                "dateTime": "2023-10-05T07:00:00.0000000",
+                "timeZone": "UTC"
+            }
+        },
+        {
+            "@odata.etag": "W/\"CQAAABYAAACtRUmtfGQbT6tMtwJ/4/5AAAOWjmsm\"",
+            "id": "AAMkAGU4NjEzODBlLWE4NzctNDFjOS05MTc0LWI5MGUxNzVhMTAxYQBGAAAAAAAgpKUZpyVmS5noesVIpF8ABwCtRUmtfGQbT6tMtwJ-4-5AAAAAAAEMAACtRUmtfGQbT6tMtwJ-4-5AAAOY8cAxAAA=",
+            "createdDateTime": "2023-10-23T03:44:54Z",
+            "lastModifiedDateTime": "2023-10-23T03:44:57Z",
+            "changeKey": "CQAAABYAAACtRUmtfGQbT6tMtwJ/4/5AAAOWjmsm",
+            "categories": [],
+            "receivedDateTime": "2023-10-23T03:44:55Z",
+            "sentDateTime": "2023-10-23T03:44:48Z",
+            "hasAttachments": false,
+            "internetMessageId": "<SL2PR04MB3147C1355CE4F7A2AF229052B2D8A@SL2PR04MB3147.apcprd04.prod.outlook.com>",
+            "subject": "Weekly - Open Vacancies Alert ",
+            "bodyPreview": "Hi Hearts,\u2764\ufe0f\r\n\r\n\r\n\r\nWe are currently looking for the following openings, please share with your friends & anyone who knows you!\r\n\r\n\r\n\r\n\r\nThanks,\r\n\r\n\r\n\r\nKrishanthiny Krishnaraj\r\n\r\nRecruitment Coordinator\r\n\r\n\r\n\r\nE   : krishanthiny@bistecglobal.com\r\nM :  +94",
+            "importance": "normal",
+            "parentFolderId": "AQMkAGU4NjEzODBlLWE4NzcALTQxYzktOTE3NC1iOTBlMTc1YTEwMWEALgAAAyCkpRmnJWZLmeh6xUikXwABAK1FSa18ZBtPq0y3An-j-kAAAAIBDAAAAA==",
+            "conversationId": "AAQkAGU4NjEzODBlLWE4NzctNDFjOS05MTc0LWI5MGUxNzVhMTAxYQAQAOD6GBNQX1FBnhD5YIYDW_M=",
+            "conversationIndex": "AQHaBWLo4PoYE1BfUUGeEPlghgNb4w==",
+            "isDeliveryReceiptRequested": null,
+            "isReadReceiptRequested": false,
+            "isRead": true,
+            "isDraft": false,
+            "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkAGU4NjEzODBlLWE4NzctNDFjOS05MTc0LWI5MGUxNzVhMTAxYQBGAAAAAAAgpKUZpyVmS5noesVIpF8ABwCtRUmtfGQbT6tMtwJ%2F4%2F5AAAAAAAEMAACtRUmtfGQbT6tMtwJ%2F4%2F5AAAOY8cAxAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+            "inferenceClassification": "focused",
+            "body": {
+                "contentType": "html",
+                "content": "<html><head>\r\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\"><style type=\"text/css\" style=\"display:none\">\r\n<!--\r\np\r\n\t{margin-top:0;\r\n\tmargin-bottom:0}\r\n-->\r\n</style></head><body dir=\"ltr\"><div class=\"elementToProof\" style=\"font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)\"><div style=\"font-size:15px; margin:0px; color:rgb(36,36,36); background-color:rgb(255,255,255)\"><p style=\"font-size:10pt; font-family:Calibri,sans-serif; margin:0px\"><span style=\"margin:0px\"><span class=\"ContentPasted2\" style=\"font-size:11pt; font-family:&quot;Calibri Light&quot;,sans-serif,serif,EmojiFont; margin:0px; color:black; background-color:white\">Hi&nbsp;</span></span><span style=\"margin:0px\"><span style=\"font-size:11pt; font-family:&quot;Calibri Light&quot;,sans-serif,serif,EmojiFont; margin:0px; color:black; background-color:white\"><span data-markjs=\"true\" class=\"markc004f12v0 ContentPasted2\" data-ogac=\"\" data-ogab=\"\" data-ogsc=\"\" data-ogsb=\"\" style=\"margin:0px\">Hearts</span></span></span><span style=\"margin:0px\"><span class=\"ContentPasted2\" style=\"font-size:11pt; font-family:&quot;Calibri Light&quot;,sans-serif,serif,EmojiFont; margin:0px; color:black; background-color:white\">,</span></span><span style=\"margin:0px\"><span class=\"ContentPasted2\" style=\"font-size:11pt; font-family:&quot;Apple Color Emoji&quot;,serif,EmojiFont; margin:0px; color:black; background-color:white\">\u2764\ufe0f</span></span><span style=\"font-size:12pt; font-family:Aptos,sans-serif,serif,EmojiFont; margin:0px; color:black\"></span></p></div><div style=\"font-size:15px; margin:0px; color:rgb(36,36,36); background-color:rgb(255,255,255)\"><div style=\"margin:0px\"><div style=\"margin:0px\"><p style=\"font-size:10pt; font-family:Calibri,sans-serif; margin:0px; background-color:white\"><span class=\"ContentPasted2\" style=\"font-size:12pt; margin:0px; color:black\">&nbsp;</span></p></div><div style=\"margin:0px\"><div style=\"margin:0px\"><div style=\"margin:0px\"><p style=\"background-color:white\"><span style=\"margin:0px\"><span class=\"ContentPasted2\" style=\"font-size:11pt; font-family:&quot;Calibri Light&quot;,sans-serif,serif,EmojiFont; margin:0px; color:black\">We&nbsp;are currently looking for the following&nbsp;</span></span><span style=\"margin:0px\"><span class=\"ContentPasted2\" style=\"font-size:11pt; font-family:&quot;Calibri Light&quot;,sans-serif,serif,EmojiFont; margin:0px; color:black\">open</span></span><span style=\"margin:0px\"><span class=\"ContentPasted2\" style=\"font-size:11pt; font-family:&quot;Calibri Light&quot;,sans-serif,serif,EmojiFont; margin:0px; color:black\">ings, please share with your friends&nbsp;&amp; anyone who knows you!</span></span></p></div></div></div></div></div><br></div><div class=\"elementToProof\" style=\"font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)\"><img class=\"ContentPasted3 w-1080 h-1080\" size=\"1674693\" data-outlook-trace=\"F:1|T:1\" src=\"cid:81752813-d2bb-4840-8df2-708d741ceadf\" style=\"max-width:100%\"><br></div><div class=\"elementToProof\"><div style=\"font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)\"><br></div><div id=\"Signature\"><div><div><span style=\"font-family:Calibri,Arial,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0); background-color:rgb(255,255,255)\"><p style=\"background:white; margin:0in; font-size:11pt; font-family:Calibri,sans-serif\"><span class=\"ContentPasted0\" style=\"margin:0px; color:rgb(32,31,30)\">Thanks,&nbsp;</span></p><p style=\"background:white; margin:0in; font-size:11pt; font-family:Calibri,sans-serif\"><span style=\"margin:0px; color:rgb(32,31,30)\">&nbsp;</span></p><table width=\"660\" id=\"tableSelected1\" style=\"font-size:14px; width:495pt\"><tbody><tr><td valign=\"top\" style=\"padding:0in\"><p style=\"margin:0in; font-size:11pt; font-family:Calibri,sans-serif\"><span class=\"ContentPasted0\" style=\"border:1pt none windowtext; font-size:12pt; margin:0px; padding:0in; color:rgb(0,107,156)\">Krishanthiny Krishnaraj<span class=\"ContentPasted0\">&nbsp;</span>&nbsp;</span></p><div style=\"font-size:11pt; font-family:Calibri,sans-serif; margin:0px 0in\"><span class=\"ContentPasted0\" style=\"border:1pt none windowtext; font-size:12pt; margin:0px; padding:0in; color:rgb(0,107,156)\">Recruitment Coordinator</span><span style=\"border:1pt none windowtext; font-family:&quot;Times New Roman&quot;,serif; margin:0px; padding:0in\"><br class=\"ContentPasted0\"></span><span style=\"border:1pt none windowtext; font-size:9pt; font-family:&quot;Times New Roman&quot;,serif; margin:0px; padding:0in\"><br class=\"ContentPasted0\"></span><span style=\"border:1pt none windowtext; font-family:&quot;Times New Roman&quot;,serif; margin:0px; padding:0in\"><a href=\"https://lk.linkedin.com/in/krishanthinykrishnaraj\" title=\"https://lk.linkedin.com/in/krishanthinykrishnaraj\" class=\"ContentPasted0 OWAAutoLink\" id=\"OWAc83c485b-05ea-c8fd-7232-ba980eac4b22\" style=\"margin:0px\"><img width=\"18\" height=\"18\" data-outlook-trace=\"F:1|T:1\" src=\"cid:8fd9f502-d3bb-4abf-9c4b-a7e2e64e1811\" style=\"margin:0px; width:18px; height:18px\"></a><br class=\"ContentPasted0\"><br class=\"ContentPasted0\"></span><b><span class=\"ContentPasted0\" style=\"border:1pt none windowtext; font-size:10pt; margin:0px; padding:0in; color:rgb(0,107,156)\">E&nbsp;&nbsp;&nbsp;:&nbsp;<u>k</u></span></b><b><span style=\"border:1pt none windowtext; font-size:10pt; margin:0px; padding:0in; color:rgb(0,107,156)\"><a href=\"mailto:Krishanthiny@bistecglobal.com\" class=\"ContentPasted0 OWAAutoLink\" id=\"OWA613ed5c7-2b58-5233-ca02-0623ea2deb11\" style=\"margin:0px\"><span style=\"margin:0px; color:rgb(5,99,193)\">rishanthiny</span><span style=\"margin:0px; color:rgb(5,99,193)\">@bistecglobal.com</span></a></span></b><b><span class=\"ContentPasted0\" style=\"border:1pt none windowtext; font-size:10pt; margin:0px; padding:0in; color:rgb(0,107,156)\"><br class=\"ContentPasted0\">M&nbsp;:&nbsp;&nbsp;+94 740167907&nbsp;</span></b></div><p style=\"margin:0in; font-size:11pt; font-family:Calibri,sans-serif\"><b><span class=\"ContentPasted0\" style=\"border:1pt none windowtext; font-size:10pt; margin:0px; padding:0in; color:rgb(0,107,156)\">W&nbsp;:&nbsp;&nbsp;<a href=\"http://www.bistecglobal.com/\" target=\"_blank\" title=\"Original URL: http://www.bistecglobal.com/. Click or tap if you trust this link.\" class=\"ContentPasted0 OWAAutoLink\" id=\"OWAcf9efc4f-cab8-4e39-37c0-310bdff25969\" style=\"margin:0px\"><span style=\"margin:0px; color:rgb(5,99,193)\">www.bistecglobal.com</span></a></span></b></p><p style=\"margin:0in; font-size:11pt; font-family:Calibri,sans-serif\"><span style=\"margin:0px\"><br></span></p><p style=\"margin:0in; font-size:11pt; font-family:Calibri,sans-serif\"><span style=\"margin:0px\"><br></span></p><p style=\"margin:0in; font-size:11pt; font-family:Calibri,sans-serif\"><span style=\"margin:0px\"><br></span></p><p style=\"margin:0in; font-size:11pt; font-family:Calibri,sans-serif\"><span style=\"margin:0px\"><br></span></p><p style=\"margin:0in; font-size:11pt; font-family:Calibri,sans-serif\"><span style=\"margin:0px\"><br></span></p></td><td valign=\"top\" data-editing-info=\"{&quot;bgColorOverride&quot;:true}\" style=\"padding:0in\"><br class=\"ContentPasted0\"></td><td valign=\"top\" data-editing-info=\"{&quot;bgColorOverride&quot;:true}\" style=\"padding:0in 15pt 0in 0in\"><p style=\"margin:0in; font-size:11pt; font-family:Calibri,sans-serif\"><span style=\"font-family:&quot;Times New Roman&quot;,serif,serif,EmojiFont; margin:0px\"><b style=\"\"><img class=\"ContentPasted1\" data-outlook-trace=\"F:1|T:1\" src=\"cid:3bf8817f-fd29-44b2-aeba-dc15c412d356\" style=\"max-width:100%\"></b></span></p></td></tr></tbody></table><br></span></div></div></div></div></body></html>"
+            },
+            "sender": {
+                "emailAddress": {
+                    "name": "Krishanthiny Krishnaraj | BISTEC Global",
+                    "address": "krishanthiny@bistecglobal.com"
+                }
+            },
+            "from": {
+                "emailAddress": {
+                    "name": "Krishanthiny Krishnaraj | BISTEC Global",
+                    "address": "krishanthiny@bistecglobal.com"
+                }
+            },
+            "toRecipients": [
+                {
+                    "emailAddress": {
+                        "name": "#All Hearts | BISTEC Global",
+                        "address": "AllHearts@bistecglobal.com"
+                    }
+                }
+            ],
+            "ccRecipients": [],
+            "bccRecipients": [],
+            "replyTo": [],
+            "flag": {
+                "flagStatus": "notFlagged"
+            }
+        },
+        {
+            "@odata.etag": "W/\"CQAAABYAAACtRUmtfGQbT6tMtwJ/4/5AAAOWjmsX\"",
+            "id": "AAMkAGU4NjEzODBlLWE4NzctNDFjOS05MTc0LWI5MGUxNzVhMTAxYQBGAAAAAAAgpKUZpyVmS5noesVIpF8ABwCtRUmtfGQbT6tMtwJ-4-5AAAAAAAEMAACtRUmtfGQbT6tMtwJ-4-5AAAOY8cAwAAA=",
+            "createdDateTime": "2023-10-23T03:24:59Z",
+            "lastModifiedDateTime": "2023-10-23T03:25:01Z",
+            "changeKey": "CQAAABYAAACtRUmtfGQbT6tMtwJ/4/5AAAOWjmsX",
+            "categories": [],
+            "receivedDateTime": "2023-10-23T03:25:00Z",
+            "sentDateTime": "2023-10-23T03:24:54Z",
+            "hasAttachments": false,
+            "internetMessageId": "<SEZPR04MB58041A2FDE9C0636520AFAE7ADD8A@SEZPR04MB5804.apcprd04.prod.outlook.com>",
+            "subject": "Agile Mindset : Scrum Ceremonies",
+            "bodyPreview": "Hi Hearts,\r\n\r\n\ud83d\ude80 Elevate Team Performance with Scrum Ceremonies! \ud83d\ude80\r\n\r\nScrum Ceremonies facilitate structured communication, promote continuous improvement, and ensure alignment and timely delivery within teams.\r\n\r\n\ud83c\udfaf Ready to kickstart your project's suc",
+            "importance": "normal",
+            "parentFolderId": "AQMkAGU4NjEzODBlLWE4NzcALTQxYzktOTE3NC1iOTBlMTc1YTEwMWEALgAAAyCkpRmnJWZLmeh6xUikXwABAK1FSa18ZBtPq0y3An-j-kAAAAIBDAAAAA==",
+            "conversationId": "AAQkAGU4NjEzODBlLWE4NzctNDFjOS05MTc0LWI5MGUxNzVhMTAxYQAQAIZopL2fHEzavy7XdjxVUYA=",
+            "conversationIndex": "AdoFX/74hmikvZ8cTNq/Ltd2PFVRgA==",
+            "isDeliveryReceiptRequested": null,
+            "isReadReceiptRequested": false,
+            "isRead": true,
+            "isDraft": false,
+            "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkAGU4NjEzODBlLWE4NzctNDFjOS05MTc0LWI5MGUxNzVhMTAxYQBGAAAAAAAgpKUZpyVmS5noesVIpF8ABwCtRUmtfGQbT6tMtwJ%2F4%2F5AAAAAAAEMAACtRUmtfGQbT6tMtwJ%2F4%2F5AAAOY8cAwAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+            "inferenceClassification": "focused",
+            "body": {
+                "contentType": "html",
+                "content": "<html><head>\r\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\"><meta name=\"Generator\" content=\"Microsoft Word 15 (filtered medium)\"><style>\r\n<!--\r\n@font-face\r\n\t{font-family:\"Cambria Math\"}\r\n@font-face\r\n\t{font-family:Calibri}\r\n@font-face\r\n\t{font-family:\"Segoe UI Emoji\"}\r\np.MsoNormal, li.MsoNormal, div.MsoNormal\r\n\t{margin:0in;\r\n\tfont-size:11.0pt;\r\n\tfont-family:\"Calibri\",sans-serif}\r\nspan.EmailStyle22\r\n\t{font-family:\"Calibri\",sans-serif;\r\n\tcolor:windowtext}\r\nspan.ui-provider\r\n\t{}\r\n.MsoChpDefault\r\n\t{font-size:10.0pt}\r\n@page WordSection1\r\n\t{margin:1.0in 1.0in 1.0in 1.0in}\r\ndiv.WordSection1\r\n\t{}\r\n-->\r\n</style></head><body lang=\"EN-US\" link=\"#0563C1\" vlink=\"#954F72\" style=\"word-wrap:break-word\"><div class=\"WordSection1\"><p class=\"MsoNormal\">Hi Hearts,</p><p class=\"MsoNormal\">&nbsp;</p><p class=\"MsoNormal\"><span class=\"ui-provider\"><span style=\"font-family:&quot;Segoe UI Emoji&quot;,sans-serif\">&#128640;</span></span><span class=\"ui-provider\"> Elevate Team Performance with Scrum Ceremonies! </span><span class=\"ui-provider\"><span style=\"font-family:&quot;Segoe UI Emoji&quot;,sans-serif\">&#128640;</span></span><span class=\"ui-provider\"></span></p><p class=\"MsoNormal\"><span class=\"ui-provider\">&nbsp;</span></p><p class=\"MsoNormal\"><span class=\"ui-provider\">Scrum Ceremonies facilitate structured communication, promote continuous improvement, and ensure alignment and timely delivery within teams.</span></p><p class=\"MsoNormal\"><span class=\"ui-provider\">&nbsp;</span></p><p class=\"MsoNormal\"><span class=\"ui-provider\"><span style=\"font-family:&quot;Segoe UI Emoji&quot;,sans-serif\">&#127919;</span></span><span class=\"ui-provider\"> Ready to kickstart your project's success and power-up your team collaboration? </span></p><p class=\"MsoNormal\"><span class=\"ui-provider\">Get ready to embrace the magic of Scrum ceremonies for Agile project management! </span><span class=\"ui-provider\"><span style=\"font-family:&quot;Segoe UI Emoji&quot;,sans-serif\">&#128640;</span></span><span class=\"ui-provider\"></span></p><p class=\"MsoNormal\">&nbsp;</p><p class=\"MsoNormal\"><img width=\"746\" height=\"560\" id=\"Picture_x0020_3\" src=\"cid:image001.jpg@01DA058E.4D405E90\" alt=\"A diagram of scrum ceremonies\n\nDescription automatically generated\" style=\"width:7.7708in; height:5.8333in\"></p><p class=\"MsoNormal\">&nbsp;</p><p class=\"MsoNormal\">&nbsp;</p><div><p class=\"MsoNormal\">Best Regards,</p><p class=\"MsoNormal\">PM Initiative</p><p class=\"MsoNormal\"><img width=\"256\" height=\"61\" id=\"Picture_x0020_5\" src=\"cid:image002.png@01DA058E.4D405E90\" alt=\"A close up of a logo\n\nDescription automatically generated\" style=\"width:2.6666in; height:.6354in\"></p><p class=\"MsoNormal\" style=\"background:white\"><span style=\"font-size:12.0pt; color:black\">&nbsp;</span></p></div></div></body></html>"
+            },
+            "sender": {
+                "emailAddress": {
+                    "name": "Hearts Academy | BISTEC Global",
+                    "address": "heartsacademy@bistecglobal.com"
+                }
+            },
+            "from": {
+                "emailAddress": {
+                    "name": "Hearts Academy | BISTEC Global",
+                    "address": "heartsacademy@bistecglobal.com"
+                }
+            },
+            "toRecipients": [
+                {
+                    "emailAddress": {
+                        "name": "#All Hearts | BISTEC Global",
+                        "address": "AllHearts@bistecglobal.com"
+                    }
+                }
+            ],
+            "ccRecipients": [],
+            "bccRecipients": [],
+            "replyTo": [],
+            "flag": {
+                "flagStatus": "notFlagged"
+            }
+        }
+    ],
+    "@odata.nextLink": "https://graph.microsoft.com/v1.0/users/5c4b266d-d79c-4cd6-aa1a-926536a626dd/messages?%24top=10&%24skip=10"
+}

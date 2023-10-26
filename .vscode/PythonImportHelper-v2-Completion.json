@@ -1,0 +1,214 @@
+[
+    {
+        "label": "tool",
+        "importPath": "promptflow",
+        "description": "promptflow",
+        "isExtraImport": true,
+        "detail": "promptflow",
+        "documentation": {}
+    },
+    {
+        "label": "tool",
+        "importPath": "promptflow",
+        "description": "promptflow",
+        "isExtraImport": true,
+        "detail": "promptflow",
+        "documentation": {}
+    },
+    {
+        "label": "tool",
+        "importPath": "promptflow",
+        "description": "promptflow",
+        "isExtraImport": true,
+        "detail": "promptflow",
+        "documentation": {}
+    },
+    {
+        "label": "requests",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "requests",
+        "description": "requests",
+        "detail": "requests",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "BeautifulSoup",
+        "importPath": "bs4",
+        "description": "bs4",
+        "isExtraImport": true,
+        "detail": "bs4",
+        "documentation": {}
+    },
+    {
+        "label": "BeautifulSoup",
+        "importPath": "bs4",
+        "description": "bs4",
+        "isExtraImport": true,
+        "detail": "bs4",
+        "documentation": {}
+    },
+    {
+        "label": "SentimentIntensityAnalyzer",
+        "importPath": "nltk.sentiment.vader",
+        "description": "nltk.sentiment.vader",
+        "isExtraImport": true,
+        "detail": "nltk.sentiment.vader",
+        "documentation": {}
+    },
+    {
+        "label": "TextBlob",
+        "importPath": "textblob",
+        "description": "textblob",
+        "isExtraImport": true,
+        "detail": "textblob",
+        "documentation": {}
+    },
+    {
+        "label": "nltk",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "nltk",
+        "description": "nltk",
+        "detail": "nltk",
+        "documentation": {}
+    },
+    {
+        "label": "sent_tokenize",
+        "importPath": "nltk",
+        "description": "nltk",
+        "isExtraImport": true,
+        "detail": "nltk",
+        "documentation": {}
+    },
+    {
+        "label": "word_tokenize",
+        "importPath": "nltk",
+        "description": "nltk",
+        "isExtraImport": true,
+        "detail": "nltk",
+        "documentation": {}
+    },
+    {
+        "label": "stopwords",
+        "importPath": "nltk.corpus",
+        "description": "nltk.corpus",
+        "isExtraImport": true,
+        "detail": "nltk.corpus",
+        "documentation": {}
+    },
+    {
+        "label": "FreqDist",
+        "importPath": "nltk.probability",
+        "description": "nltk.probability",
+        "isExtraImport": true,
+        "detail": "nltk.probability",
+        "documentation": {}
+    },
+    {
+        "label": "TreebankWordDetokenizer",
+        "importPath": "nltk.tokenize.treebank",
+        "description": "nltk.tokenize.treebank",
+        "isExtraImport": true,
+        "detail": "nltk.tokenize.treebank",
+        "documentation": {}
+    },
+    {
+        "label": "RegexpTokenizer",
+        "importPath": "nltk.tokenize",
+        "description": "nltk.tokenize",
+        "isExtraImport": true,
+        "detail": "nltk.tokenize",
+        "documentation": {}
+    },
+    {
+        "label": "my_python_tool",
+        "kind": 2,
+        "importPath": "downloadGraphApiEmail",
+        "description": "downloadGraphApiEmail",
+        "peekOfCode": "def my_python_tool(input1: str) -> str:\n  # Read the configuration file\n  with open('config.json', 'r') as config_file:\n    config = json.load(config_file)\n  # Read Grapy API Configuration\n  user_id = config['user_id']\n  graph_api_endpoint = f\"{config['graph_api_endpoint'].format(user_id=user_id)}\"\n  client_id = config['client_id']\n  client_secret = config['client_secret']\n  redirect_uri = config['redirect_uri']",
+        "detail": "downloadGraphApiEmail",
+        "documentation": {}
+    },
+    {
+        "label": "get_daily_emails",
+        "kind": 2,
+        "importPath": "downloadGraphApiEmail",
+        "description": "downloadGraphApiEmail",
+        "peekOfCode": "def get_daily_emails(graph_api_endpoint,client_id, client_secret, redirect_uri, tenant_id, access_token):\n    # Set up the headers with the access token\n    headers = {\n        \"Authorization\": f\"Bearer {access_token}\",\n        \"Content-Type\": \"application/json\",\n    }\n    # Make the request to the Microsoft Graph API to retrieve emails for the specified user\n    response = requests.get(graph_api_endpoint, headers=headers)\n    # Check if the request was successful\n    if response.status_code == 200:",
+        "detail": "downloadGraphApiEmail",
+        "documentation": {}
+    },
+    {
+        "label": "process_json_with_sentiment_analysis",
+        "kind": 2,
+        "importPath": "getEmails",
+        "description": "getEmails",
+        "peekOfCode": "def process_json_with_sentiment_analysis():\n    with open('data.json', 'r') as file:\n        json_data = json.load(file)\n    contents = [item['body']['content'] for item in json_data['value']]\n    def convert_html_to_text(html):\n        soup = BeautifulSoup(html, 'html.parser')\n        return soup.get_text()\n    plain_texts = [convert_html_to_text(content) if any(tag for tag in BeautifulSoup(content, 'html.parser').find_all()) else content for content in contents]\n    sid = SentimentIntensityAnalyzer()\n    analyses = []",
+        "detail": "getEmails",
+        "documentation": {}
+    },
+    {
+        "label": "result",
+        "kind": 5,
+        "importPath": "getEmails",
+        "description": "getEmails",
+        "peekOfCode": "result = process_json_with_sentiment_analysis()\nprint(json.dumps(result, indent=2))",
+        "detail": "getEmails",
+        "documentation": {}
+    },
+    {
+        "label": "generate_email_summary",
+        "kind": 2,
+        "importPath": "getEmailsContents",
+        "description": "getEmailsContents",
+        "peekOfCode": "def generate_email_summary():\n    summaries = []\n    for i, email_body in enumerate(email_bodies):\n        soup = BeautifulSoup(email_body, \"html.parser\")\n        plain_text = soup.get_text()\n        sentences = sent_tokenize(plain_text)\n        tokenizer = RegexpTokenizer(r\"\\w+\")\n        words = [\n            word.lower() for sentence in sentences for word in tokenizer.tokenize(sentence)\n        ]",
+        "detail": "getEmailsContents",
+        "documentation": {}
+    },
+    {
+        "label": "chat_bot",
+        "kind": 2,
+        "importPath": "getEmailsContents",
+        "description": "getEmailsContents",
+        "peekOfCode": "def chat_bot(input_text):\n    if \"how is my emails today\" in input_text.lower():\n        summaries = generate_email_summary()\n        return summaries\n    else:\n        return \"I'm sorry, I cannot provide information\"\ninput_text = \"How is my emails today?\"\nresponse = chat_bot(input_text)",
+        "detail": "getEmailsContents",
+        "documentation": {}
+    },
+    {
+        "label": "email_bodies",
+        "kind": 5,
+        "importPath": "getEmailsContents",
+        "description": "getEmailsContents",
+        "peekOfCode": "email_bodies = []\nwith open(\"simpleData.json\", \"r\") as input_file:\n    data = json.load(input_file)\n    email_bodies = [\n        item.get(\"body\", \"\") for item in data if isinstance(item, dict)\n    ]\n@tool\ndef generate_email_summary():\n    summaries = []\n    for i, email_body in enumerate(email_bodies):",
+        "detail": "getEmailsContents",
+        "documentation": {}
+    },
+    {
+        "label": "input_text",
+        "kind": 5,
+        "importPath": "getEmailsContents",
+        "description": "getEmailsContents",
+        "peekOfCode": "input_text = \"How is my emails today?\"\nresponse = chat_bot(input_text)",
+        "detail": "getEmailsContents",
+        "documentation": {}
+    },
+    {
+        "label": "response",
+        "kind": 5,
+        "importPath": "getEmailsContents",
+        "description": "getEmailsContents",
+        "peekOfCode": "response = chat_bot(input_text)",
+        "detail": "getEmailsContents",
+        "documentation": {}
+    }
+]

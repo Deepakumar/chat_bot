@@ -1,0 +1,198 @@
+{
+  "package": {
+    "promptflow.tools.embedding.embedding": {
+      "name": "Embedding",
+      "description": "Use Open AI's embedding model to create an embedding vector representing the input text.",
+      "type": "python",
+      "module": "promptflow.tools.embedding",
+      "function": "embedding",
+      "inputs": {
+        "connection": {
+          "type": [
+            "AzureOpenAIConnection",
+            "OpenAIConnection"
+          ]
+        },
+        "deployment_name": {
+          "type": [
+            "string"
+          ],
+          "enabled_by": "connection",
+          "enabled_by_type": [
+            "AzureOpenAIConnection"
+          ],
+          "capabilities": {
+            "completion": false,
+            "chat_completion": false,
+            "embeddings": true
+          },
+          "model_list": [
+            "text-embedding-ada-002",
+            "text-search-ada-doc-001",
+            "text-search-ada-query-001"
+          ]
+        },
+        "model": {
+          "type": [
+            "string"
+          ],
+          "enabled_by": "connection",
+          "enabled_by_type": [
+            "OpenAIConnection"
+          ],
+          "enum": [
+            "text-embedding-ada-002",
+            "text-search-ada-doc-001",
+            "text-search-ada-query-001"
+          ]
+        },
+        "input": {
+          "type": [
+            "string"
+          ]
+        }
+      },
+      "package": "promptflow-tools",
+      "package_version": "0.1.0b6"
+    },
+    "promptflow.tools.serpapi.SerpAPI.search": {
+      "name": "Serp API",
+      "description": "Use Serp API to obtain search results from a specific search engine.",
+      "inputs": {
+        "connection": {
+          "type": [
+            "SerpConnection"
+          ]
+        },
+        "engine": {
+          "default": "google",
+          "enum": [
+            "google",
+            "bing"
+          ],
+          "type": [
+            "string"
+          ]
+        },
+        "location": {
+          "default": "",
+          "type": [
+            "string"
+          ]
+        },
+        "num": {
+          "default": "10",
+          "type": [
+            "int"
+          ]
+        },
+        "query": {
+          "type": [
+            "string"
+          ]
+        },
+        "safe": {
+          "default": "off",
+          "enum": [
+            "active",
+            "off"
+          ],
+          "type": [
+            "string"
+          ]
+        }
+      },
+      "type": "python",
+      "module": "promptflow.tools.serpapi",
+      "class_name": "SerpAPI",
+      "function": "search",
+      "package": "promptflow-tools",
+      "package_version": "0.1.0b6"
+    }
+  },
+  "code": {
+    "chat.jinja2": {
+      "type": "llm",
+      "inputs": {
+        "json": {
+          "type": [
+            "string"
+          ]
+        },
+        "question": {
+          "type": [
+            "string"
+          ]
+        }
+      },
+      "source": "chat.jinja2"
+    },
+    "extract_results.py": {
+      "type": "python",
+      "inputs": {
+        "input1": {
+          "type": [
+            "string"
+          ]
+        }
+      },
+      "source": "extract_results.py",
+      "function": "my_python_tool"
+    },
+    "getEmails.py": {
+      "type": "python",
+      "source": "getEmails.py",
+      "function": "process_json_with_sentiment_analysis"
+    },
+    "test.jinja2": {
+      "type": "llm",
+      "inputs": {
+        "chat_history": {
+          "type": [
+            "string"
+          ]
+        },
+        "question": {
+          "type": [
+            "string"
+          ]
+        }
+      },
+      "source": "test.jinja2"
+    },
+    "getSummary.jinja2": {
+      "type": "prompt",
+      "inputs": {
+        "text": {
+          "type": [
+            "string"
+          ]
+        }
+      },
+      "source": "getSummary.jinja2"
+    },
+    "llm_node_6x4o.jinja2": {
+      "type": "llm",
+      "inputs": {
+        "text": {
+          "type": [
+            "string"
+          ]
+        }
+      },
+      "source": "llm_node_6x4o.jinja2"
+    },
+    "downloadGraphApiEmail.py": {
+      "type": "python",
+      "inputs": {
+        "input1": {
+          "type": [
+            "string"
+          ]
+        }
+      },
+      "source": "downloadGraphApiEmail.py",
+      "function": "my_python_tool"
+    }
+  }
+}
