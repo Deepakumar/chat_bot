@@ -149,6 +149,15 @@
         "documentation": {}
     },
     {
+        "label": "get_graph_api_accessToken",
+        "kind": 2,
+        "importPath": "downloadGraphApiEmail",
+        "description": "downloadGraphApiEmail",
+        "peekOfCode": "def get_graph_api_accessToken(tenant_id, client_id, client_secret, redirect_uri):\n    config = None\n    # Set up the headers and data for the token request\n    headers = {\n        \"Content-Type\": \"application/x-www-form-urlencoded\"\n    }\n    data = {\n        \"client_id\": client_id,\n        \"scope\": \"https://graph.microsoft.com/.default\",\n        \"client_secret\": client_secret,",
+        "detail": "downloadGraphApiEmail",
+        "documentation": {}
+    },
+    {
         "label": "process_json_with_sentiment_analysis",
         "kind": 2,
         "importPath": "getEmails",

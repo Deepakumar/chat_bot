@@ -20,6 +20,7 @@ def my_python_tool(input1: str) -> str:
   redirect_uri = config['redirect_uri']
   tenant_id = config['tenant_id']
   access_token = config['access_token']
+  authorization_url = config['authorization_url']
 
   # Print the configuration
   print("Configuration:")
@@ -28,7 +29,10 @@ def my_python_tool(input1: str) -> str:
   print(f"Client ID: {client_id}")
   print(f"Client Secret: {client_secret}")
   print(f"Redirect URI: {redirect_uri}")
-  print(f"Tenant ID: {tenant_id}")    
+  print(f"Tenant ID: {tenant_id}") 
+  print(f"Autorization URL: {authorization_url}")
+
+  access_token = get_graph_api_accessToken(tenant_id, client_id, client_secret, redirect_uri)
 
   get_daily_emails(graph_api_endpoint, client_id, client_secret, redirect_uri, tenant_id, access_token)
 
@@ -59,6 +63,44 @@ def get_daily_emails(graph_api_endpoint,client_id, client_secret, redirect_uri, 
         print("Failed to retrieve emails. Status code:", response.status_code)
         print(response.text)
 
+
+def get_graph_api_accessToken(tenant_id, client_id, client_secret, redirect_uri):
+    config = None
+    # Set up the headers and data for the token request
+    headers = {
+        "Content-Type": "application/x-www-form-urlencoded"
+    }
+    data = {
+        "client_id": client_id,
+        "scope": "https://graph.microsoft.com/.default",
+        "client_secret": client_secret,
+        "grant_type": "client_credentials"
+    }
+    # Make the request to the Microsoft Identity Platform to retrieve an access token
+    response = requests.post(f"https://login.microsoftonline.com/{tenant_id}/oauth2/v2.0/token", headers=headers, data=data)
+
+
+    if response.status_code == 200:
+        access_token = response.json().get("access_token", "")
+        print("Access token:", access_token)
+
+        with open('config.json', 'r') as config_file:
+          config = json.load(config_file)
+
+        # Update the access_token field in the configuration
+        config["access_token"] = access_token
+
+        # Save the updated configuration back to the file
+        with open('config.json', 'w') as config_file:
+            json.dump(config, config_file, indent=4)
+
+        print("Access token has been saved to the configuration file.")
+
+        return access_token
+    else:
+        print("Failed to retrieve access token. Status code:", response.status_code)
+        print(response.text)
+        return None
 
 # Call the function to retrieve emails
 my_python_tool("Hello World")
